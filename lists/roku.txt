@@ -6,38 +6,38 @@ logo=http://www.vernonhills.org/images/pages/N688/Scam-Alert.png stream=https://
 #EXTINF:0, *Property of cCloudTV.ORG* (Top10) (US) (English)
 logo=http://media.comicbook.com/2015/09/baneposter2-by-sysmatic-149962.jpg stream=https://archive.org/download/cCloud_20151126/cCloud.mp4 cat=Top10
 
-#EXTINF:0, Welcome to cCloudTV.ORG (Updated 10-30-2016 11:51:09 EST-US) the future of IPTV. (Announcement) (US) (English)
+#EXTINF:0, Welcome to cCloudTV.ORG (Updated 10-30-2016 17:20:30 EST-US) the future of IPTV. (Announcement) (US) (English)
 logo=http://s30.postimg.org/7ir30q7i5/12246894_1652474284992079_8160065325735639466_n.jpg stream=https://archive.org/download/cCloud_20151126/cCloud.mp4 cat=Announcement
 
 #EXTINF:0, A&E cCloudTV.ORG (Top10) (US) (English)
-logo=http://i.imgur.com/OOENI42.jpg stream=http://167.114.102.27/live/WcbzitZki17vMPHAIs7tLw/1477853186/ce425ca32dea0f37b22717ae989bcffb.m3u8 cat=Top10
+logo=http://i.imgur.com/OOENI42.jpg stream=http://167.114.102.27/live/cddBQGq7YWHYFHnv7F6Frg/1477873007/ce425ca32dea0f37b22717ae989bcffb.m3u8 cat=Top10
 
 #EXTINF:0, AMC cCloudTV.ORG (Top10) (US) (English)
-logo=http://i.imgur.com/PJ3OW4C.png stream=http://167.114.102.27/live/fiGIJdLUbz2tVDHy6dVAGQ/1477853190/b06316b29b6c788ecf95287567cb2a3a.m3u8 cat=Top10
+logo=http://i.imgur.com/PJ3OW4C.png stream=http://167.114.102.27/live/JRG960PZPkja0MVpgQyxqw/1477873008/b06316b29b6c788ecf95287567cb2a3a.m3u8 cat=Top10
 
 #EXTINF:0, Cartoon Network cCloudTV.ORG (Top10) (US) (English)
-logo=http://i.imgur.com/rdXms87.png stream=http://167.114.102.27/live/HZeIBNVYFCQfY2CZniT_5w/1477853193/720933e62452d65671c676a065c18192.m3u8 cat=Top10
+logo=http://i.imgur.com/rdXms87.png stream=http://167.114.102.27/live/dYAEHmPPyU7oWS9v3RDHpQ/1477873010/720933e62452d65671c676a065c18192.m3u8 cat=Top10
 
 #EXTINF:0, Comedy Central cCloudTV.ORG (Top10) (US) (English)
-logo=http://i.imgur.com/P5WktnH.gif stream=http://167.114.102.27/live/JqZNYVPHQJIGi1mz48qogA/1477853198/1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8 cat=Top10
+logo=http://i.imgur.com/P5WktnH.gif stream=http://167.114.102.27/live/Yet2UrgOej9LGnZHv6nxfA/1477873011/1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8 cat=Top10
 
 #EXTINF:0, Discovery Channel cCloudTV.ORG (Top10) (US) (English)
-logo=http://i.imgur.com/Y8HHddy.jpg stream=http://167.114.102.27/live/TTAEff4A6Uz3-AlBJ83viw/1477853201/075d66993151c178df1ed9840202d983.m3u8 cat=Top10
+logo=http://i.imgur.com/Y8HHddy.jpg stream=http://167.114.102.27/live/tQypmZ391LkzNMco9R0cUQ/1477873012/075d66993151c178df1ed9840202d983.m3u8 cat=Top10
 
 #EXTINF:0, ESPN cCloudTV.ORG (Top10) (US) (English)
-logo=http://i.imgur.com/tOnK7Bv.jpg stream=http://167.114.102.27/live/AF2N30rvwCnna0z_1EN5NQ/1477853204/aca0a31d14c85e19f7023c9a3889f37b.m3u8 cat=Top10
+logo=http://i.imgur.com/tOnK7Bv.jpg stream=http://167.114.102.27/live/owreE_eTVY-TPHvvm3oIQg/1477873013/aca0a31d14c85e19f7023c9a3889f37b.m3u8 cat=Top10
 
 #EXTINF:0, History cCloudTV.ORG (Top10) (US) (English)
-logo=http://i.imgur.com/qsbJRlP.png stream=http://167.114.102.27/live/yirwlPC2k4sBgrWHTWcFBQ/1477853209/faec021db59fba9a5129929b7c448c5a.m3u8 cat=Top10
+logo=http://i.imgur.com/qsbJRlP.png stream=http://167.114.102.27/live/EXA542iehpeCmTGXfLveNw/1477873014/faec021db59fba9a5129929b7c448c5a.m3u8 cat=Top10
 
 #EXTINF:0, National Geographic Channel cCloudTV.ORG (Top10) (US) (English)
-logo=http://i.imgur.com/DNrlDoW.jpg stream=http://167.114.102.27/live/TC6c4VKJ37zq7sqPUvIinw/1477853212/be2fa358e4f1c9a0ee833aa15f829f81.m3u8 cat=Top10
+logo=http://i.imgur.com/DNrlDoW.jpg stream=http://167.114.102.27/live/BnuFyjKV4AfFDVQnAbXKyA/1477873015/be2fa358e4f1c9a0ee833aa15f829f81.m3u8 cat=Top10
 
 #EXTINF:0, Nickelodeon cCloudTV.ORG (Top10) (US) (English)
-logo=http://i.imgur.com/IcQhTFE.png stream=http://167.114.102.27/live/u4YycTPVGXkxtBrJUNenwg/1477853213/a55d7c24a00915235cdc6a6ddaaaf67b.m3u8 cat=Top10
+logo=http://i.imgur.com/IcQhTFE.png stream=http://167.114.102.27/live/3N5y5fLMjk55HYs2wHVVQg/1477873016/a55d7c24a00915235cdc6a6ddaaaf67b.m3u8 cat=Top10
 
 #EXTINF:0, The CW Network cCloudTV.ORG (Top10) (US) (English)
-logo=http://i.imgur.com/W0w2sbW.jpg stream=http://167.114.102.27/live/daeaRXA9ga9qag2DmINFgQ/1477853217/296e56c668bc8bd6b0044d3e4f034153.m3u8 cat=Top10
+logo=http://i.imgur.com/W0w2sbW.jpg stream=http://167.114.102.27/live/jsvGjp1BexgKawnPNqBm0g/1477873017/296e56c668bc8bd6b0044d3e4f034153.m3u8 cat=Top10
 
 #EXTINF:0, 24 News (News) (FR) (French)
 logo=http://i.imgur.com/VvA12Zz.jpg stream=http://bcoveliveios-i.akamaihd.net/hls/live/215102/master_french/412/master.m3u8 cat=News
@@ -49,7 +49,7 @@ logo=http://a.abcnews.go.com/images/US/abc_news_default_2000x2000_update_16x9t_3
 logo=http://australiaresorts.us/photo/abc-news-australia.jpg stream=http://www.abc.net.au/res/streaming/video/hls/news24.m3u8 cat=News
 
 #EXTINF:0, ABC (News) (US) (English)
-logo=http://cimg.tvgcdn.net/i/r/2015/05/06/91d45e54-ce5c-40c4-beb3-616b40706f54/resize/350x240/8132c2a3755be511de99cf2556676fde/150506-logo-abc-hp-lg.jpg stream=http://167.114.102.27/live/HtAQ-MMVxuPAtK8DXW1iPQ/1477852790/ba354149f3c117ceb69529a1542b6281.m3u8 cat=News
+logo=http://cimg.tvgcdn.net/i/r/2015/05/06/91d45e54-ce5c-40c4-beb3-616b40706f54/resize/350x240/8132c2a3755be511de99cf2556676fde/150506-logo-abc-hp-lg.jpg stream=http://167.114.102.27/live/KddrqxFOrPu1-66sy9QQeA/1477872328/ba354149f3c117ceb69529a1542b6281.m3u8 cat=News
 
 #EXTINF:0, ABN (News) (IN) (Telugu)
 logo=http://www.andhrawishesh.com/Resources/images/TV-Channels/ABN-Andhrajyothi.jpg stream=https://www.youtube.com/watch?v=QzQnFY6CioA.m3u8 cat=News
@@ -261,6 +261,9 @@ logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6bh74_jb-T9Zm9r71Eyp
 #EXTINF:0, Digi 24 (News) (RO) (English)
 logo=http://www.freeetv.com/images/03_logo/digi_24_romania.jpg stream=http://81.196.0.126:80/digi24edge/digi24hdhqhls/index.m3u8 cat=News
 
+#EXTINF:0, DOT TV (News) (US) (English)
+logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTGlwYEXgoJpy53EaP4o9Phcv0UrWMb4MsWQ75bGzKh2ytyH2v-fRmL6g stream=http://dottvnetwork-channel.videocdn.scaleengine.net/dottvnetwork-channel/live/dottvnetwork/playlist.m3u8 cat=News
+
 #EXTINF:0, Dunya News (News) (PK) (Urdu)
 logo=http://www.islambox.com/Images/Products/Channels/mainlogo/urdunews-logo.png stream=http://imob.dunyanews.tv:1935/live/smil:stream.smil/chunklist_w491888781_b300000.m3u8 cat=News
 
@@ -304,7 +307,7 @@ logo=http://img.new.livestream.com/events/00000000002950ae/04ab2e3a-d7bb-45a5-9d
 logo=http://siriusbuzz.com/wp-content/uploads/2008/12/fox-business-logo.gif stream=http://thefxplayer.com/live-tv/fox-business cat=News
 
 #EXTINF:0, Fox News (News) (US) (English)
-logo=http://cdn.newsbusters.org/images/fnclogolarge.jpg stream=http://167.114.102.27/live/vesOegvgVh4SsutLM5hIwA/1477852794/877e1fd192b3a58577e4387971c215a7.m3u8 cat=News
+logo=http://cdn.newsbusters.org/images/fnclogolarge.jpg stream=http://167.114.102.27/live/TxcI50lgP0z45q_pp1oAxA/1477872333/877e1fd192b3a58577e4387971c215a7.m3u8 cat=News
 
 #EXTINF:0, FusionPlus TV (News) (NG/CO) (Afrikaans)
 logo=http://www.fusionplustv.com/wp-content/uploads/2015/07/logo-fptv.png stream=http://play.inacdn.com/playlist_live/43_135_live.m3u8 cat=News
@@ -404,6 +407,9 @@ logo=http://www.customercarephonenumber.in/wp-content/uploads/2013/02/MH-One-New
 
 #EXTINF:0, MSNBC (News) (US) (English)
 logo=http://vignette4.wikia.nocookie.net/uncyclopedia/images/c/ca/Msnbc-logo.jpg/revision/latest?cb=20091105112316 stream=http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8 cat=News
+
+#EXTINF:0, Maan News (News) (PS) (Arabic)
+logo=http://civiccoalition-jerusalem.org/system/files/images/maan_logo_med_q_0.jpg stream=http://vstream2.hadara.ps:1935/maan/maan_1/gmswf.m3u8 cat=News
 
 #EXTINF:0, MertoVision (News) (CA) (French)
 logo=http://i.imgur.com/q0JEMOG.png stream=rtmp://cp228779.live.edgefcs.net:1935/live/metrovision_live@138690 cat=News
@@ -703,7 +709,7 @@ logo=http://logok.org/wp-content/uploads/2014/04/Animal-Planet-logo.png stream=h
 logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNOZ8YNxtkqlITEqa1sJJ2HzWWJo3cbIJf2WsTV73Z3Hl3xJaU7u8VVA stream=http://alturl.com/uk4nf.m3u8 cat=Documentary
 
 #EXTINF:0, Animal Planet (Documentary) (US) (English)
-logo=https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Animal_Planet_Canada_Logo.PNG/200px-Animal_Planet_Canada_Logo.PNG stream=http://167.114.102.27/live/gEMkpmi0BWIZ93mv8s9iiQ/1477852796/a0f8ddb8c8251a68f136648b32c0f62d.m3u8 cat=Documentary
+logo=https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Animal_Planet_Canada_Logo.PNG/200px-Animal_Planet_Canada_Logo.PNG stream=http://167.114.102.27/live/MJtbrbrPguC2FhqilDUG2g/1477872335/a0f8ddb8c8251a68f136648b32c0f62d.m3u8 cat=Documentary
 
 #EXTINF:0, Aradana TV (Documentary) (IN) (Telugu)
 logo=http://imgresize.yupptv.in/img.php?src=http://static.aka.yupp.yuppcdn.net/yupptv/roku/images/skyworth/v5/aradana_tv_roku.jpg&w=600&h=315 stream=rtmp://servicioamerica.net:1935/8282/aradanatv cat=Documentary
@@ -733,7 +739,7 @@ logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQU1jRFpI3vjXMcza6K36a
 logo=http://i.imgur.com/Rgbf8DK.jpg stream=rtmp://wms.tecnoxia.com:80/8096//8096 cat=Documentary
 
 #EXTINF:0, Discovery Channel (Documentary) (US) (English)
-logo=http://images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg stream=http://167.114.102.27/live/ZvG44cKEs14jpiJGkRzdQQ/1477852797/075d66993151c178df1ed9840202d983.m3u8 cat=Documentary
+logo=http://images2.fanpop.com/image/photos/12200000/Discovery-Channel-logos-discovery-channel-12245119-300-300.jpg stream=http://167.114.102.27/live/RwD00pf6UANvB-8ehoXjUw/1477872337/075d66993151c178df1ed9840202d983.m3u8 cat=Documentary
 
 #EXTINF:0, Discovery Science (Documentary) (RU) (Russian)
 logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTArZ5YxAIWecz8hQlFi4Lk0O0OteSSGEi4uf3SOqePXzdmzA5LSrBbSA stream=http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/136/index.m3u8 cat=Documentary
@@ -766,7 +772,7 @@ logo=http://static.aka.yupp.yuppcdn.net/yupptv/channel_logos_new/harvest_usa.png
 logo=https://macin.files.wordpress.com/2008/09/plex-icon-512x512.png stream=http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/111/index.m3u8 cat=Documentary
 
 #EXTINF:0, History (Documentary) (US) (English)
-logo=http://2.bp.blogspot.com/-QSfFAp_jqP0/T3DH2aXPHUI/AAAAAAAABdg/5a9_qDD92AQ/s1600/h5.png stream=http://167.114.102.27/live/mcJ8tTGnobE3Ax_QVPU5nQ/1477852798/faec021db59fba9a5129929b7c448c5a.m3u8 cat=Documentary
+logo=http://2.bp.blogspot.com/-QSfFAp_jqP0/T3DH2aXPHUI/AAAAAAAABdg/5a9_qDD92AQ/s1600/h5.png stream=http://167.114.102.27/live/u1U_D_D0oW4AUKYgINP4hw/1477872338/faec021db59fba9a5129929b7c448c5a.m3u8 cat=Documentary
 
 #EXTINF:0, Irib Amoozesh (Documentary) (IR) (Arabic)
 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/IRIB_TV7.png/150px-IRIB_TV7.png stream=http://63.237.48.23/ios/IRIB_AMOOZESH/IRIB_AMOOZESH.m3u8 cat=Documentary
@@ -814,7 +820,7 @@ logo=http://www.acrosstheuniverseday.com/images/nasa_TV_logo.jpg stream=http://n
 logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSe0WGFKXZipJ-dBbxmLxY6mSd1jrt-8wBDdfhcVG37_tgWnxFEBjglfHI stream=rtmp://195.154.188.161/live/ngchd playpath=ngchd swfUrl=http://releases.flowplayer.org/5.4.6/flowplayer.swf live=1 pageUrl=http://www.stream4free.eu/national-geographic cat=Documentary
 
 #EXTINF:0, National Geographic (Documentary) (US) (English)
-logo=http://famouslogos.net/images/national-geographic-logo.jpg stream=http://167.114.102.27/live/n0wE-uQOmnw2Fr5l-s-Dag/1477852800/be2fa358e4f1c9a0ee833aa15f829f81.m3u8 cat=Documentary
+logo=http://famouslogos.net/images/national-geographic-logo.jpg stream=http://167.114.102.27/live/z7VCtTnSDXCPf4ogyKt3dw/1477872340/be2fa358e4f1c9a0ee833aa15f829f81.m3u8 cat=Documentary
 
 #EXTINF:0, Nithyananda TV Kannada (Documentary) (IN) (Kannada/English)
 logo=https://yt3.ggpht.com/-MjFC1Y99Q24/AAAAAAAAAAI/AAAAAAAAAAA/qHf_KqMZSD8/s100-c-k-no/photo.jpg stream=rtmp://nithya.live-s.cdn.bitgravity.com/cdn-live/_definst_/nithya/live/nithyanandatv500 cat=Documentary
@@ -928,13 +934,13 @@ logo=http://www.userlogos.org/files/logos/14505_deva/ccloud1.png stream=https://
 logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSjHO4cIAohj0HS4QYpMlwauk2JZboetzNcjXDeda8E6zZsW2_pQTz9rw stream=http://streaming.8tv.cat/8TV/8aldia-directe/.m3u8 cat=Entertainment
 
 #EXTINF:0, A&E (Entertainment) (US) (English)
-logo=http://canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg stream=http://167.114.102.27/live/mAUdjPYo0JZOtki1_34Tig/1477852802/ce425ca32dea0f37b22717ae989bcffb.m3u8 cat=Entertainment
+logo=http://canigetawordin.com/wp-content/uploads/2013/12/photo_320x240_ae.jpg stream=http://167.114.102.27/live/DdL5VqJ06Iqo-w0f7_T5EQ/1477872341/ce425ca32dea0f37b22717ae989bcffb.m3u8 cat=Entertainment
 
 #EXTINF:0, Amazing Discoveries TV (Entertainment) (CA) (English)
 logo=http://erich-gaspers.de/wp-content/uploads/2014/11/ADTV-Logo.png stream=rtmp://amazingdrtmp.tulix.tv:1935/amazingdiscoveries/mystream1 cat=Entertainment
 
 #EXTINF:0, AMC (Entertainment) (US) (English)
-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/150px-Amc_logo.svg.png stream=http://167.114.102.27/live/nGUaGZxekQ-SY_FbPIMA7w/1477852803/b06316b29b6c788ecf95287567cb2a3a.m3u8 cat=Entertainment
+logo=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Amc_logo.svg/150px-Amc_logo.svg.png stream=http://167.114.102.27/live/-Tav3Yy3WH643ft_vB2Rvg/1477872344/b06316b29b6c788ecf95287567cb2a3a.m3u8 cat=Entertainment
 
 #EXTINF:0, Adult Swim (Entertainment) (US) (English)
 logo=http://vignette1.wikia.nocookie.net/logopedia/images/9/9d/Adult_Swim_logo.svg/revision/latest?cb=20100314200336 stream=http://adultswim-lh.akamaihd.net/i/adultswim_14@318522/master.m3u8 cat=Entertainment
@@ -1006,13 +1012,13 @@ logo=http://www.swiss-cast.com/wp-content/uploads/Logos/China/Beijing_TV.jpg str
 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Bravo_logo.svg/125px-Bravo_logo.svg.png stream=http://31.220.41.107:80/LiveEdge/BravoEastUS/chunklist_w1614198516_b1000000.m3u8?token=d6e7485b22dcc1fc31439bdcbf782044 cat=Entertainment
 
 #EXTINF:0, BravoTv (Entertainment) (US) (English)
-logo=https://lh3.googleusercontent.com/-YQVw8uRNszw/AAAAAAAAAAI/AAAAAAAAXX8/4P4EQkgSdFM/s0-c-k-no-ns/photo.jpg stream=http://167.114.102.27/live/uxPE_7j9sJYz-743Nl-ThQ/1477853090/582b19f3ef5459a2f139ec69ee2053d0.m3u8 cat=Entertainment
+logo=https://lh3.googleusercontent.com/-YQVw8uRNszw/AAAAAAAAAAI/AAAAAAAAXX8/4P4EQkgSdFM/s0-c-k-no-ns/photo.jpg stream=http://167.114.102.27/live/oBwXs8t7crDWEN9sml1kNg/1477872890/582b19f3ef5459a2f139ec69ee2053d0.m3u8 cat=Entertainment
 
 #EXTINF:0, CBS Reality (Entertainment) (UK) (Russian)
 logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRg63KYl_GoFFyzQCArQ0-zAzFwwNq9fxUXtzWSAjppmsmRnjn0CEOeXw stream=http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/706/index.m3u8 cat=Entertainment
 
 #EXTINF:0, CBS (Entertainment) (US) (US)
-logo=https://lh6.googleusercontent.com/-qqKuc6JO_do/AAAAAAAAAAI/AAAAAAAADxg/jYgTrJPFvy8/s0-c-k-no-ns/photo.jpg stream=http://167.114.102.27/live/b1GQmOjdUetSGqw3DuZEgA/1477852807/4d0fadca2686a2cdd4a4a6623212449c.m3u8 cat=Entertainment
+logo=https://lh6.googleusercontent.com/-qqKuc6JO_do/AAAAAAAAAAI/AAAAAAAADxg/jYgTrJPFvy8/s0-c-k-no-ns/photo.jpg stream=http://167.114.102.27/live/4yFwfKny8B-MfYVVf8LKJQ/1477872350/4d0fadca2686a2cdd4a4a6623212449c.m3u8 cat=Entertainment
 
 #EXTINF:0, CNS Channel 6 Guyana (Entertainment) (GY) (English)
 logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcScy6OEo52SEBLCOFgnnQVl_ViKvDoupKFTLISp5Sz2U5L2zCZ5zFVXyCE stream=rtmp://cdbLgf.live.cloud.influxis.com:80/cdbLgf/_definst_/cns6 cat=Entertainment
@@ -1159,13 +1165,13 @@ logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFKrNowiBEdHE4SvgJVAo
 logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRckIbGgCxKuvLeZxTuMCdtQI8MguigVxjTMzeYhK4ilkG4HG770YWGjtk stream=http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/550/index.m3u8 cat=Entertainment
 
 #EXTINF:0, FOX (Entertainment) (US) (English)
-logo=http://i.imgur.com/15rP8l3.png stream=http://167.114.102.27/live/GxbimIKbq-rjXFyMCegOaA/1477852809/1cbdb8043b37c7c9ca83582f9218c8b4.m3u8 cat=Entertainment
+logo=http://i.imgur.com/15rP8l3.png stream=http://167.114.102.27/live/s4b3str8bnfragO81XWCGg/1477872351/1cbdb8043b37c7c9ca83582f9218c8b4.m3u8 cat=Entertainment
 
 #EXTINF:0, FTV MASTV (Entertainment) (CH) (Mandarin)
 logo=http://www.asiasat.com/sites/default/files/mastv_1.png stream=http://ktv044.cdnak.ds.kylintv.net/nlds/kylin/mastv/as/live/mastv_4.m3u8 cat=Entertainment
 
 #EXTINF:0, FX (Entertainment) (US) (English)
-logo=http://www.polyvore.com/cgi/img-thing%3F.out%3Djpg%26size%3Dl%26tid%3D66497051 stream=http://167.114.102.27/live/SVK3dn7Q24SaakAWq1rFuA/1477852810/d4c503dbcdd0aaa79724dd4b79b5c8c6.m3u8 cat=Entertainment
+logo=http://www.polyvore.com/cgi/img-thing%3F.out%3Djpg%26size%3Dl%26tid%3D66497051 stream=http://167.114.102.27/live/g5dgcyZgcSJ4J__yojSxOw/1477872353/d4c503dbcdd0aaa79724dd4b79b5c8c6.m3u8 cat=Entertainment
 
 #EXTINF:0, Farsi 1 TV (Entertainment) (IR) (Arabic)
 logo=http://www.satfrequency.com/wp-content/uploads/2015/01/Farsi-1-Sat.jpg stream=http://63.237.48.23/ios/FARSI1/FARSI1.m3u8 cat=Entertainment
@@ -1279,7 +1285,7 @@ logo=https://upload.wikimedia.org/wikipedia/en/f/fc/Life_OK_channel_logo.png str
 logo=https://upload.wikimedia.org/wikipedia/en/f/fc/Life_OK_channel_logo.png stream=rtmp://213.136.77.5:19990/live//LifeHDNew cat=Entertainment
 
 #EXTINF:0, Lifetime (Entertainment) (US) (English)
-logo=http://i.imgur.com/g1SNX37.png stream=http://167.114.102.27/live/2SPb-kG3ZiImKGRvDGkY2g/1477852811/171879baa092ef14d5ec8f401aeaffcd.m3u8 cat=Entertainment
+logo=http://i.imgur.com/g1SNX37.png stream=http://167.114.102.27/live/De69ok8nIa0aB9-5HFVYmg/1477872354/171879baa092ef14d5ec8f401aeaffcd.m3u8 cat=Entertainment
 
 #EXTINF:0, M6 (Entertainment) (FR) (French)
 logo=https://upload.wikimedia.org/wikipedia/en/thumb/a/a8/M6-tv-logo.png/286px-M6-tv-logo.png stream=https://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_hls_aes/m6_hls_aes_856.m3u8 cat=Entertainment
@@ -1357,7 +1363,7 @@ logo=http://www.tv14.net/wp-content/uploads/2010/06/Oui-FM.jpg stream=http://rtm
 logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcST7uetwDzxJVWc3id9g6knK72Gq27PCgbuQWoFC3Pso7f-2xvC28u0mg stream=http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/703/index.m3u8 cat=Entertainment
 
 #EXTINF:0, PBS (Entertainment) (US) (English)
-logo=https://lh3.googleusercontent.com/-8meSrLqfKbk/AAAAAAAAAAI/AAAAAAAAN90/K6uUKdKQciI/s0-c-k-no-ns/photo.jpg stream=http://167.114.102.27/live/rc1Z6IAzCSW8X21WhVyzog/1477852815/fe22365235b496368609515523bfb971.m3u8 cat=Entertainment
+logo=https://lh3.googleusercontent.com/-8meSrLqfKbk/AAAAAAAAAAI/AAAAAAAAN90/K6uUKdKQciI/s0-c-k-no-ns/photo.jpg stream=http://167.114.102.27/live/uZBgx3pLBoJqBnRfRTzZyQ/1477872359/fe22365235b496368609515523bfb971.m3u8 cat=Entertainment
 
 #EXTINF:0, Peravia Vision (Entertainment) (ES) (Spanish)
 logo=http://dominicaninternet.com/servicios/images/peravia_vision_logo_domint2013.png stream=http://ss6.domint.net:2002/pvv_str/peravia/playlist.m3u8 cat=Entertainment
@@ -1474,7 +1480,7 @@ logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSY45H3a7bLpGseqwbzaPO
 logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSFbPOJ1IeozZWRjx6MpLQJhUKqx27ZnyFEgo9AxPRLTKAPTLIElpYF-cI stream=http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/121/index.m3u8 cat=Entertainment
 
 #EXTINF:0, Spike TV (Entertainment) (US) (English)
-logo=http://www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg stream=http://167.114.102.27/live/s_1ojSc0mBFBW9VQ_lp8eg/1477852812/744a2e6d638ef5996394717e9e871717.m3u8 cat=Entertainment
+logo=http://www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg stream=http://167.114.102.27/live/MlOjjvASlZUqgb607eiNcA/1477872355/744a2e6d638ef5996394717e9e871717.m3u8 cat=Entertainment
 
 #EXTINF:0, Star Plus HD US (Entertainment) (US) (Hindi)
 logo=http://vignette3.wikia.nocookie.net/logopedia/images/9/9b/Star_Plus_USA.png/revision/latest?cb=20110930095924 stream=http://mhd.livetvonmobile.in/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Plus_HD_hs.smil/.m3u8 cat=Entertainment
@@ -1662,9 +1668,6 @@ logo=http://www.vaanaviltelevision.com/wp-content/uploads/2016/02/logo170w.png s
 #EXTINF:0, Valle vision Canal 10 la vega (Entertainment) (ES) (Spanish)
 logo=http://dominicanchannel.info/wp-content/uploads/2013/07/vallevision3.jpg stream=http://asx.domiplay.net:1935/rtplive/vallevision.sdp/playlist.m3u8 cat=Entertainment
 
-#EXTINF:0, Vanavil Plus (Entertainment) (IN) (Tamil)
-logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQnfMdSIWG-TxZrOrOvaYoW2znNTw4JYixwz5YjwKQaEU6WqXSjJtE7lQ stream=http://45.79.203.234:1935/vanavil/myStream/playlist.m3u8 cat=Entertainment
-
 #EXTINF:0, Vasanth TV Tamil (Entertainment) (IN) (Tamil)
 logo=http://extreme.com/media/img/extreme/tv_guide.png stream=http://vasanth.live-s.cdn.bitgravity.com/cdn-live/_definst_/vasanth/secure/live/feed01/chunklist_w163082460.m3u8?e=0&h=54e44f64b2e6d5122acdf77d01ab7f9f cat=Entertainment
 
@@ -1771,10 +1774,10 @@ logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTUkYFe50ePqQsNnYvgZ0H
 logo=http://malayalamhdtv2.com/admin_mhdtv/mhdtv/numbers/care_world_tv.png stream=rtmp://173.199.120.59:1935/CAREWORLDTVL/CAREWORLDTVL.stream-roku cat=Family
 
 #EXTINF:0, Cartoon Network (Family) (US) (English)
-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/110px-Cartoon_Network_2010_logo.svg.png stream=http://167.114.102.27/live/dsgn3kdPDBvn1f9zzmk3gQ/1477853093/720933e62452d65671c676a065c18192.m3u8 cat=Family
+logo=https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/110px-Cartoon_Network_2010_logo.svg.png stream=http://167.114.102.27/live/lympMnaTZs4Ie7dG84loTQ/1477872591/720933e62452d65671c676a065c18192.m3u8 cat=Family
 
 #EXTINF:0, Comedy Central (Family) (US) (English)
-logo=http://1.bp.blogspot.com/-DQR0qRIc8-s/UHHBSxA20-I/AAAAAAAAAB0/9aHsa8A6xn8/s72-c/Logo_ComedyCentral_001.gif stream=http://167.114.102.27/live/T231ryDWTSWh243v9pxmvw/1477853094/1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8 cat=Family
+logo=http://1.bp.blogspot.com/-DQR0qRIc8-s/UHHBSxA20-I/AAAAAAAAAB0/9aHsa8A6xn8/s72-c/Logo_ComedyCentral_001.gif stream=http://167.114.102.27/live/DHZgQ0blG3c0LmV_W9pGxA/1477872593/1ed9b2bf325e5bba7f3c577c3a86d0ef.m3u8 cat=Family
 
 #EXTINF:0, DW (Family) (SA) (Arabic)
 logo=http://1.bp.blogspot.com/-jPreHjT3vdU/TmJp4YGAWsI/AAAAAAAAADw/bUJK-vt45Bo/s1600/dwtv_logo.gif stream=http://www.metafilegenerator.de/DWelle/tv-arabia/ios/master.m3u8 cat=Family
@@ -1888,7 +1891,7 @@ logo=http://files.hevitv.webnode.com/system_preview_detail_200000012-ac9ccad93b/
 logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJGmIG7_skteBmLRxuHBOkPaPbUGe-BaAaTv4925xGZrRVCGSXewh9Qg stream=http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/114/index.m3u8 cat=Family
 
 #EXTINF:0, Nickelodeon (Family) (US) (English)
-logo=http://www.nick.com/nick-assets/common/nick-logo-200x200.png stream=http://167.114.102.27/live/86h4iE2feRMvfHZFIQF0DA/1477853095/a55d7c24a00915235cdc6a6ddaaaf67b.m3u8 cat=Family
+logo=http://www.nick.com/nick-assets/common/nick-logo-200x200.png stream=http://167.114.102.27/live/OYijubZJt1_jnUn0bni1Mg/1477872594/a55d7c24a00915235cdc6a6ddaaaf67b.m3u8 cat=Family
 
 #EXTINF:0, Omroep Brabant (Family) (NL) (English)
 logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRql3vjKu4l39JiBNldnJoWOItdKZ7MXkl46Tf9RYvCit1NmB80KzPZzg stream=http://omroepbrabant.rr.kpnstreaming.nl/hls/live/omroepbrabant/omroepbrabant_tv/index.m3u8 cat=Family
@@ -1957,7 +1960,7 @@ logo=http://www.impressivemedia.net/wp-content/uploads/2014/08/SOAC-e14094627058
 logo=http://www.cctvradio.com/uploads/4/9/9/8/4998504/3637504.jpg stream=http://188.165.135.22/remararg/livestream/playlist.m3u8 cat=Family
 
 #EXTINF:0, Spike Tv (Family) (US) (English)
-logo=http://www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg stream=http://167.114.102.27/live/jD__wy9VYz2wwrHmLOfAQg/1477853097/744a2e6d638ef5996394717e9e871717.m3u8 cat=Family
+logo=http://www.myentertainment.tv/wp-content/uploads/2013/02/Spike-Logo.jpg stream=http://167.114.102.27/live/rWyJSm-n2ZJPFoOHI6ULeA/1477872595/744a2e6d638ef5996394717e9e871717.m3u8 cat=Family
 
 #EXTINF:0, Superene (Family) (MX) (Spanish)
 logo=http://extreme.com/media/img/extreme/tv_guide.png stream=https://ott.streann.com/loadbalancer/services/ip-transport/channels/563d068be4b050ca5a08eadf/playlist.m3u8?token=2525f5d1dwe56rw45118189 cat=Family
@@ -1993,7 +1996,7 @@ logo=http://i.imgur.com/aKyYgoF.png stream=http://video-live.iol.pt:1935/live_tv
 logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQgPAC06ER1aDJvXKGo0iijdsUzoTGcphdiyLxaUXjdqqpxVG2OK0wrXg stream=http://qs1.distream.net:2180/tbt_str/telebendicion/playlist.m3u8 cat=Family
 
 #EXTINF:0, The CW Network (Family) (US) (English)
-logo=https://encrypted-tbn3.gstatic.com/images?q=tbn%3AANd9GcQO4WEZsIKEfe7n7dyKqaIxF6FwyrhqPZtz0_2hG54zFWIY0YmB49TAOhA stream=http://167.114.102.27/live/BJ5VXFyQM8wRP8YqKMVzwg/1477853098/296e56c668bc8bd6b0044d3e4f034153.m3u8 cat=Family
+logo=https://encrypted-tbn3.gstatic.com/images?q=tbn%3AANd9GcQO4WEZsIKEfe7n7dyKqaIxF6FwyrhqPZtz0_2hG54zFWIY0YmB49TAOhA stream=http://167.114.102.27/live/sgz4kNtcUX1xwDh_e7lEsA/1477872596/296e56c668bc8bd6b0044d3e4f034153.m3u8 cat=Family
 
 #EXTINF:0, The church channel (Family) (US) (English)
 logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuRmzPHGpiaiYDDaZhxe-YD5uDH0_gXLc1qkdKc_QDOK27CM3nosbkPQ stream=http://acaooyalahd2-lh.akamaihd.net/i/TBN02_delivery@186240/master.m3u8 cat=Family
@@ -2005,7 +2008,7 @@ logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ75QVyFbLOzOpBk_rBz92
 logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSCFJKJ6Aal-079I6Z2i5ryOWjl3tsAAPx44tNOSY2spnuWoBoPmHFZ3Vo stream=http://livestream01.untvweb.com:1935/public/untvwebstream/playlist.m3u8 cat=Family
 
 #EXTINF:0, USA Network (Family) (US) (English)
-logo=http://www.tvinsider.com/wp-content/uploads/2016/01/usa-network-logo.jpg stream=http://167.114.102.27/live/yVpdMfyT3-V3XeRDF4ikzA/1477853099/0e367435d4bc1a89ea7506cf0eadb3a7.m3u8 cat=Family
+logo=http://www.tvinsider.com/wp-content/uploads/2016/01/usa-network-logo.jpg stream=http://167.114.102.27/live/Iqp-IPX7k8_7s0SB0PFJUA/1477872893/0e367435d4bc1a89ea7506cf0eadb3a7.m3u8 cat=Family
 
 #EXTINF:0, VTV 7 (Family) (VN) (Vietnamese)
 logo=http://extreme.com/media/img/extreme/tv_guide.png stream=rtmp://123.30.238.125/live/_definst_/vtv7-high cat=Family
@@ -2233,7 +2236,7 @@ logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR8Mcd88vEoKHQKUPqdPt4
 logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQe7iS3-4Sqjwuj2jvKBXEWH15uO8qRU9X661wuYEmsNLf-LQCHgoSdPVs stream=http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/553/index.m3u8 cat=Movie Channels
 
 #EXTINF:0, Fx (Movie Channels) (US) (English)
-logo=https://upload.wikimedia.org/wikipedia/en/c/c7/FX_Italia_logo.svg stream=http://167.114.102.27/live/gEcGdo0lj3yAAOKJcC7EJA/1477853154/d4c503dbcdd0aaa79724dd4b79b5c8c6.m3u8 cat=Movie Channels
+logo=https://upload.wikimedia.org/wikipedia/en/c/c7/FX_Italia_logo.svg stream=http://167.114.102.27/live/HMujDwT9rNM1hLLS8BcRnw/1477872625/d4c503dbcdd0aaa79724dd4b79b5c8c6.m3u8 cat=Movie Channels
 
 #EXTINF:0, HBO Signature (Movie Channels) (US) (English)
 logo=https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/HBO_Signature.svg/468px-HBO_Signature.svg.png stream=http://31.220.40.108/LiveEdge/HBOSignatureLASD/playlist.m3u8?token=a9aebcaf566baf8b96c4b7ebfb846d6b cat=Movie Channels
@@ -2352,11 +2355,8 @@ logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSDKhjnnRK63k3ck4RY9x0
 #EXTINF:0, Star Gold HD India (Movie Channels) (IN) (Hindi)
 logo=http://vignette1.wikia.nocookie.net/logopedia/images/c/c3/Star_Gold_HD_2011.png/revision/latest?cb=20110929114319 stream=http://mhd.livetvonmobile.in/hotstar.live.cdn.jio.com/dvrorigin/_definst_/smil:Star_Gold_HD_hs.smil/.m3u8 cat=Movie Channels
 
-#EXTINF:0, Starz (Movie Channels) (US) (English)
-logo=http://pmcdeadline2.files.wordpress.com/2014/06/starz-1-logo.png stream=http://31.220.40.108:80/LiveEdge/StarzEastHD/chunklist_w2022301216_b1000000.m3u8?token= cat=Movie Channels
-
 #EXTINF:0, TBS (Movie Channels) (US) (English)
-logo=http://images.bwwstatic.com/tvnetworklogos/13A765B8-A331-1519-878AEB98D39E4CEC.jpg stream=http://167.114.102.27/live/c9MsMOKcS01LAiHXlSGUBg/1477853155/d377ff63e9e229343418ba065acb643f.m3u8 cat=Movie Channels
+logo=http://images.bwwstatic.com/tvnetworklogos/13A765B8-A331-1519-878AEB98D39E4CEC.jpg stream=http://167.114.102.27/live/x47YBW1IQ2RPpGNqES3AqQ/1477872626/d377ff63e9e229343418ba065acb643f.m3u8 cat=Movie Channels
 
 #EXTINF:0, TV 1000 Action (Movie Channels) (RU) (Russian)
 logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ9q183J3uh-04qnSS4W6X366CjyBNbZ42w_1kpgFDbEkuNqUcn_NXTeVE stream=http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/131/index.m3u8 cat=Movie Channels
@@ -2374,7 +2374,7 @@ logo=http://images.dagensmedia.se/uploaded/image/2009/1/15/TV1000_logga.jpg stre
 logo=https://upload.wikimedia.org/wikipedia/commons/4/43/TVP1_HD_logo.svg stream=http://63.237.48.23/ios/TVP/TVP.m3u8 cat=Movie Channels
 
 #EXTINF:0, Usa Networks (Movie Channels) (US) (English)
-logo=http://sites.psu.edu/psych256fa14/wp-content/uploads/sites/14682/2014/09/usa-network.gif stream=http://167.114.102.27/live/zeKGQPUOKvHvTwiiElYbGw/1477852397/0e367435d4bc1a89ea7506cf0eadb3a7.m3u8 cat=Movie Channels
+logo=http://sites.psu.edu/psych256fa14/wp-content/uploads/sites/14682/2014/09/usa-network.gif stream=http://167.114.102.27/live/raQbqGfFegmsetPGRiSQaQ/1477872627/0e367435d4bc1a89ea7506cf0eadb3a7.m3u8 cat=Movie Channels
 
 #EXTINF:0, VTVcab5 (Movie Channels) (VN) (Vietnamese)
 logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR4CfWA4Vnb3bvQ1DQtk8DioNoJwYpG0P_BguXbHD809_CBgFtB1lxgHb8 stream=rtmp://118.70.203.130/channel/_definst_/vtvcab5_profile1.stream cat=Movie Channels
@@ -3025,28 +3025,28 @@ logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5tjz4LkUB109nceyYgsK
 logo=http://emisorasdominicanas.com.do/images/sobipro/entries/69/thumb_zol-106-5-online-sol-106-en-vivo.jpg stream=http://ss6.domint.net:1948/zol_edge/vzol/playlist.m3u8 cat=Radio
 
 #EXTINF:0, Action Movies (RandomAirTime 24/7) (US) (English)
-logo=http://www.iconsdb.com/icons/preview/caribbean-blue/action-xxl.png stream=http://167.114.102.27/live/nxpmP2bK20xfLB80Bqalrw/1477853106/90ce2364e02379b96643fe4d0f2d7c25.m3u8 cat=RandomAirTime 24/7
+logo=http://www.iconsdb.com/icons/preview/caribbean-blue/action-xxl.png stream=http://167.114.102.27/live/4uDfQ2f9lGEFO6Ob703i1Q/1477872369/90ce2364e02379b96643fe4d0f2d7c25.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Adult Swim (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/ad.png stream=http://167.114.102.27/live/R5vpfOmFylhbR6qUTF-gLw/1477853107/539125fdf85ba9fc38e2550c3c838e4d.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/ad.png stream=http://167.114.102.27/live/4BskitbO1vlrdmPBy-jBxw/1477872371/539125fdf85ba9fc38e2550c3c838e4d.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Adventure Time (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/tumblr_nmixkmD0tk1r7oy5so2_500.jpg stream=http://167.114.102.27/live/Cuy1CTa8ZVfLeWWublUV6w/1477853108/7d0db380a5b95a8ba1da0bca241abda1.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/tumblr_nmixkmD0tk1r7oy5so2_500.jpg stream=http://167.114.102.27/live/tXZM72up32WNwQV9Dihr0g/1477872372/7d0db380a5b95a8ba1da0bca241abda1.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Always Sunny In Philadelphia (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/10.png stream=http://167.114.102.27/live/8QXBfQwFFFoJqX-e8MxdMw/1477853109/f970e2767d0cfe75876ea857f92e319b.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/10.png stream=http://167.114.102.27/live/TY64OoZYBB8Scpkdh__dMQ/1477872374/f970e2767d0cfe75876ea857f92e319b.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, American Dad (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/3.png stream=http://167.114.102.27/live/04JWUg6cPduhcmsbhiIJPg/1477853110/523af537946b79c4f8369ed39ba78605.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/3.png stream=http://167.114.102.27/live/B3zB0ne9vROurnuErgyoPQ/1477872376/523af537946b79c4f8369ed39ba78605.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Animated Movies (RandomAirTime 24/7) (US) (English)
-logo=http://img03.deviantart.net/5b48/i/2006/047/8/2/animated_movie_logo_by_mikemedia.jpg stream=http://167.114.102.27/live/COr7Qi-c2FpqpO_HiDQACA/1477853112/7e18e745bf13ed4e73c5e612599b4cf5.m3u8 cat=RandomAirTime 24/7
+logo=http://img03.deviantart.net/5b48/i/2006/047/8/2/animated_movie_logo_by_mikemedia.jpg stream=http://167.114.102.27/live/4VEiykt23cnAO2RSLEli3A/1477872899/7e18e745bf13ed4e73c5e612599b4cf5.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Anime Channel (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/09/anime-cover-page.png stream=http://167.114.102.27/live/K1SrxEtJVdn_am8X-FulPw/1477852375/d4fda09f200a7fcb0c05ad251b18d380.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/09/anime-cover-page.png stream=http://167.114.102.27/live/LTCx2v6C_0rbxJs7J0_I6g/1477872377/d4fda09f200a7fcb0c05ad251b18d380.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Archer (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/4.png stream=http://167.114.102.27/live/9WjxMA8hXa7OuY0CJMWDbQ/1477852378/4124bc0a9335c27f086f24ba207a4912.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/4.png stream=http://167.114.102.27/live/bPzUFlFuimlt6rCCdB1bgg/1477872382/4124bc0a9335c27f086f24ba207a4912.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Astro Go Shop (RandomAirTime 24/7) (MY) (Malay/Indonesian/English)
 logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRddv5zqg3TwXGX1QGoN5UcqmEDXJWFjWtrgxPTv4UeQaLzHF1SXEnEOl4 stream=http://playback01.aotg-video.astro.com.my/AOTGHLS/master_GOSHOP_05.m3u8 cat=RandomAirTime 24/7
@@ -3055,163 +3055,163 @@ logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRddv5zqg3TwXGX1QGoN5U
 logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSdTYx8na3iVUvVgCC_wKibYNLQoved5-2DvGoC8VqqSbZI65WoAl5qHI stream=rtmp://88.198.238.44:1935/live/bluesky cat=RandomAirTime 24/7
 
 #EXTINF:0, Better Call Saul (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/5.png stream=http://167.114.102.27/live/l2a9bfwUK-Fsw6Ywm_DNfA/1477852379/5360af35bde9ebd8f01f492dc059593c.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/5.png stream=http://167.114.102.27/live/ioIU3nCM2SrBNQjArSExfQ/1477872383/5360af35bde9ebd8f01f492dc059593c.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Bobs Burgers (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/6.png stream=http://167.114.102.27/live/PMypJfQO2rSy6iSg52yPGQ/1477852381/21ad0bd836b90d08f4cf640b4c298e7c.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/6.png stream=http://167.114.102.27/live/aetqpzwC7CVCrJR2hHOpeQ/1477872384/21ad0bd836b90d08f4cf640b4c298e7c.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Canal 13 (RandomAirTime 24/7) (CL) (Spanish)
 logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTiz5MLTN0Iept6sXqKrF5oX8mfcjYKPo9CWP0H1WodW6H2nskEwNmrAWg stream=http://live.hls.http.13.ztreaming.com/13hddesktop/13hd-900.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Celebrity Deathmatch (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/11/celebrity.jpg stream=http://167.114.102.27/live/t2DFAGeP2zg_svHOjNf4Ig/1477852382/161747ec4dc9f55f1760195593742232.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/11/celebrity.jpg stream=http://167.114.102.27/live/2X1LjFZgJjZ6iAwGG4xK_A/1477872386/161747ec4dc9f55f1760195593742232.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Channel 1 TV (RandomAirTime 24/7) (IR) (Farsi)
 logo=http://iran-livetv.com/tv/images/channel1.jpg stream=http://63.237.48.23/ios/CHANNEL_ONE_TV/CHANNEL_ONE_TV.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Classic Toons (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/14.png stream=http://167.114.102.27/live/yiv-nDqIIoNBQqyXssUtDQ/1477852383/d91af6958918af87d6a057c1cdf5b225.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/14.png stream=http://167.114.102.27/live/Gr-OQp50RqigL8R-hk9cjQ/1477872387/d91af6958918af87d6a057c1cdf5b225.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Comedy Movies (RandomAirTime 24/7) (US) (English)
-logo=http://www.iconsplace.com/icons/preview/orange/comedy-256.png stream=http://167.114.102.27/live/jjOrXR4DdvX7TGz3EmMUQQ/1477852823/6fd04bc5b53697040f6f43a3c96d7658.m3u8 cat=RandomAirTime 24/7
+logo=http://www.iconsplace.com/icons/preview/orange/comedy-256.png stream=http://167.114.102.27/live/OdeW-Updc5BCgWDG9iBEYg/1477872388/6fd04bc5b53697040f6f43a3c96d7658.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Community (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/7.png stream=http://167.114.102.27/live/hA4_Q0pNBwJjTaIZiUk5qQ/1477852824/820eb5b696ea2a657c0db1e258dc7d81.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/7.png stream=http://167.114.102.27/live/XFWvkucqZ8XSfeJXnScwGA/1477872390/820eb5b696ea2a657c0db1e258dc7d81.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Curb your Enthusiasm (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/11/curb-your.jpg stream=http://167.114.102.27/live/1jcmiznyayzw1DeVA9kN8A/1477852825/9b5394fd929896fb9e90e26b3d18e63d.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/11/curb-your.jpg stream=http://167.114.102.27/live/6QCZ7p0HkSOYnE-bEmyUeA/1477872391/9b5394fd929896fb9e90e26b3d18e63d.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Doctor Who (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2016/04/doctor-who.jpg stream=http://167.114.102.27/live/RGM50N5vrTRiHyrAvqOSYw/1477852826/c0e67c407905103dbce3984c756f3f21.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2016/04/doctor-who.jpg stream=http://167.114.102.27/live/tRPnPDg6bJ1ILV140TJI7g/1477872601/c0e67c407905103dbce3984c756f3f21.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Documentary movies (RandomAirTime 24/7) (US) (English)
-logo=http://www.enterthemoviezone.com/uploads/1/2/5/2/12525217/8364703_orig.jpg stream=http://167.114.102.27/live/5_CGrMcHNOdufZif5RgE1A/1477852828/993ce9ee723cef89c679b7a55e42472a.m3u8 cat=RandomAirTime 24/7
+logo=http://www.enterthemoviezone.com/uploads/1/2/5/2/12525217/8364703_orig.jpg stream=http://167.114.102.27/live/i7_FaLo6ksPJDbjCrHf7Ew/1477872602/993ce9ee723cef89c679b7a55e42472a.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Dragonball Z (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/11/dragonballz.jpg stream=http://167.114.102.27/live/5Pn57s3BMwupErsxS0tTOg/1477852829/0de7b6a61a70688b26e6eeb3113531a3.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/11/dragonballz.jpg stream=http://167.114.102.27/live/Ofj7ByAewc9pEDV3II0dbg/1477872602/0de7b6a61a70688b26e6eeb3113531a3.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Emmanuel TV (RandomAirTime 24/7) (NG) (English)
 logo=http://emmanuel.tv/images/home/EMMANUEL-TV-LOGO-800.png stream=http://118965-lh.akamaihd.net/i/etv_live@74820/master.m3u8?b=110-700 cat=RandomAirTime 24/7
 
 #EXTINF:0, Family Guy (RandomAirTime 24/7) (US) (English)
-logo=http://s.sidereel.com/tv_shows/42681/giant_2x/family-guy.jpg stream=http://167.114.102.27/live/w8whgzq2fWV3iV6ZJGg8kg/1477852830/3d4044d65abdda407a92991f1300ec97.m3u8 cat=RandomAirTime 24/7
+logo=http://s.sidereel.com/tv_shows/42681/giant_2x/family-guy.jpg stream=http://167.114.102.27/live/32c7KPRugi4u0aWm6bMeuA/1477872900/3d4044d65abdda407a92991f1300ec97.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Fawlty Towers (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/aMLX3in.jpg stream=http://167.114.102.27/live/XeBiN86EpwRaKDir0mVwFw/1477853115/8ab53a2b077535aeefb794db289a9f11.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/aMLX3in.jpg stream=http://167.114.102.27/live/yOt9JgP3FNknxiM1F65iHg/1477872905/8ab53a2b077535aeefb794db289a9f11.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Frasier (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2016/02/frasier.jpg stream=http://167.114.102.27/live/pBq-gjoMjo4q-gwfg99o_Q/1477852832/c485bb561918025e75545506984d363c.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2016/02/frasier.jpg stream=http://167.114.102.27/live/7qqrARd8QJ_9DUxZYtLESg/1477872903/c485bb561918025e75545506984d363c.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Fresh Prince of Bel Air (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/11/fresh-prince-2.jpg stream=http://167.114.102.27/live/N3z8-taXvCVjGucw5yZrbQ/1477852834/0666f0acdeed38d4cd9084ade1739498.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/11/fresh-prince-2.jpg stream=http://167.114.102.27/live/WBHeRk4q3mYuqI9Ghux0qw/1477872904/0666f0acdeed38d4cd9084ade1739498.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Friends (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/Friends-ShowcardVertical1.jpg stream=http://167.114.102.27/live/YnslW5wVG59RanC3gxU-2g/1477852831/28f20a02bf8a021fab4fcec48afb584e.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/Friends-ShowcardVertical1.jpg stream=http://167.114.102.27/live/LoUaJZlpjWX4JG0TXH7OyA/1477872902/28f20a02bf8a021fab4fcec48afb584e.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Futurama (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/9.png stream=http://167.114.102.27/live/WBufpZc-jAO2FV6UM2zrbA/1477870838/89e6d2b383471fc370d828e552c19e65.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/9.png stream=http://167.114.102.27/live/phsltuBnOUV36xy5D4wEYg/1477890907/89e6d2b383471fc370d828e552c19e65.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Game of Thrones (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/11/game-off-thrones.jpg stream=http://167.114.102.27/live/ZM23wL4LwTOtS4srIXmLaQ/1477852837/4a1a27296188c273f6733ead4fe4eff6.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/11/game-off-thrones.jpg stream=http://167.114.102.27/live/wvoQrONhbHiELbnqckEQqw/1477872906/4a1a27296188c273f6733ead4fe4eff6.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, I love Lucy (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/11/I-love-lucy.jpg stream=http://167.114.102.27/live/6JInoIW8RDz1I64GLHX14g/1477853117/67eea2632a01c967653555f98cb84b36.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/11/I-love-lucy.jpg stream=http://167.114.102.27/live/u_t9bItDZxtehbReVZapyw/1477872909/67eea2632a01c967653555f98cb84b36.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Invader Zim (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/12.png stream=http://167.114.102.27/live/t363YVlTSotFG2TGfPQavQ/1477853118/018d4d19ee6a779b041a625a60df0e2c.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/12.png stream=http://167.114.102.27/live/o41PquCKb6cVIP7gAuBEoA/1477872910/018d4d19ee6a779b041a625a60df0e2c.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, King of the Hill (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/13.png stream=http://167.114.102.27/live/UyOqe74TpdgD_txGHGgeAA/1477853119/fa46ec0b4924e8c2194a53ef61b94039.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/13.png stream=http://167.114.102.27/live/t-euosiVGdzQ3Hfeiymlsw/1477872911/fa46ec0b4924e8c2194a53ef61b94039.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Malcolm in the Middle (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/6unOOiz.jpg stream=http://167.114.102.27/live/YvT6U1TtuZK_Wc22tNNtTg/1477853122/6897191107b1003196abb2efaf0b1e12.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/6unOOiz.jpg stream=http://167.114.102.27/live/vpefJhDphZontYwzEdGaGg/1477872914/6897191107b1003196abb2efaf0b1e12.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Married with Children (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/0gItpt6.jpg stream=http://167.114.102.27/live/8ivlB16zNVsEpfuf27XDEg/1477853120/668ada832799cc84747f015346e54eb0.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/0gItpt6.jpg stream=http://167.114.102.27/live/NsO34AhXFU6FmK_y_lR8Cg/1477872913/668ada832799cc84747f015346e54eb0.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Movies (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/16.png stream=http://167.114.102.27/live/DHWVS_jflUO3XvWzHY5bxw/1477871123/94d035945b3d82182669c4d3f6daa104.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/16.png stream=http://167.114.102.27/live/t2_MUWcJlhNKFa8BFhJx0w/1477890915/94d035945b3d82182669c4d3f6daa104.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, New Movie Releases (RandomAirTime 24/7) (US) (English)
-logo=http://www.tastingbeers.com/media/tastings/newreleases_logo.jpg stream=http://167.114.102.27/live/bHKQ7k-xX-4pL1hg4hxmMQ/1477871124/94d035945b3d82182669c4d3f6daa104.m3u8 cat=RandomAirTime 24/7
+logo=http://www.tastingbeers.com/media/tastings/newreleases_logo.jpg stream=http://167.114.102.27/live/JylzuvhlkJjCsW07hK8Fgg/1477890916/94d035945b3d82182669c4d3f6daa104.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Pars Tv (RandomAirTime 24/7) (IR) (Farsi)
 logo=http://d1i6vahw24eb07.cloudfront.net/s102485q.png stream=http://63.237.48.23/ios/PARSTV/PARSTV.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Random Movies (RandomAirTime 24/7) (US) (English)
-logo=http://icons.iconarchive.com/icons/martz90/circle/512/games-icon.png stream=http://167.114.102.27/live/LMAlRB0LvECHeyx3CyhNdQ/1477871125/94d035945b3d82182669c4d3f6daa104.m3u8 cat=RandomAirTime 24/7
+logo=http://icons.iconarchive.com/icons/martz90/circle/512/games-icon.png stream=http://167.114.102.27/live/rDaQvwpBfsNBV1B3UG-3RA/1477890917/94d035945b3d82182669c4d3f6daa104.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Regular Show (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/17.jpg stream=http://167.114.102.27/live/qHUV6-MkpoG6AtTIQTsuog/1477853126/af37d08ae228a87dc6b265fd1019c97d.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/17.jpg stream=http://167.114.102.27/live/IyfmVCfd8JXQfF5E7VcgQQ/1477872918/af37d08ae228a87dc6b265fd1019c97d.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Ren and Stimpy (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/11/Ren-and-Stimpy.jpg stream=http://167.114.102.27/live/vImCIBUIxRi2USChvk6NLw/1477853126/3a2d7564baee79182ebc7b65084aabd1.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/11/Ren-and-Stimpy.jpg stream=http://167.114.102.27/live/2gUbu0Ir0012dEL5GnvxrA/1477872919/3a2d7564baee79182ebc7b65084aabd1.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Rick and Morty (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/18.png stream=http://167.114.102.27/live/NU7PZYZnAsb6jWgew57Ntw/1477853127/d67f249b90615ca158b1258712c3a9fc.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/18.png stream=http://167.114.102.27/live/jFZdnyFL0OTn0jSrn9MvcQ/1477872609/d67f249b90615ca158b1258712c3a9fc.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Samurai Jack (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/19.jpg stream=http://167.114.102.27/live/v0QAay2O8qvU16V2XHaNWw/1477853128/b5bf27b2555de44e3df2230080db5a1d.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/19.jpg stream=http://167.114.102.27/live/cXUGrrCfYdWItRcYiREL3Q/1477872610/b5bf27b2555de44e3df2230080db5a1d.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Scrubs (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/12/scrubs.jpg stream=http://167.114.102.27/live/Wfw_r9BxiVcAAsHVKkYC_A/1477853129/456727ac6d97e749f87ec95009617bd2.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/12/scrubs.jpg stream=http://167.114.102.27/live/MTYCX98V6r8pwEOdspxXSw/1477872611/456727ac6d97e749f87ec95009617bd2.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Seinfeld (RandomAirTime 24/7) (US) (English)
-logo=http://img.sharetv.com/shows/standard/seinfeld.jpg stream=http://167.114.102.27/live/jD8Fp9A_R8nlLiscqfEKCg/1477853130/af1f8d9839dd6ffefedebab89761ee7e.m3u8 cat=RandomAirTime 24/7
+logo=http://img.sharetv.com/shows/standard/seinfeld.jpg stream=http://167.114.102.27/live/ea_RyocgO3RHSoe2xO9uwQ/1477872612/af1f8d9839dd6ffefedebab89761ee7e.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Shark Tank (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/12/shark-tank.jpg stream=http://167.114.102.27/live/hzY26kYQi8PeBbu0XNLA-Q/1477853131/6e5c05d83065de5035a874e9ce581273.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/12/shark-tank.jpg stream=http://167.114.102.27/live/7ZuZnnrSxi1mGup3uxL9_Q/1477872613/6e5c05d83065de5035a874e9ce581273.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Simpsons (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/22.png stream=http://167.114.102.27/live/MxtWPXLUZNRZ1BMSlF3jNw/1477853132/3691308f2a4c2f6983f2880d32e29c84.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/22.png stream=http://167.114.102.27/live/JjOQkrc5p54mgKyXcXDPsQ/1477872614/3691308f2a4c2f6983f2880d32e29c84.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, South Park (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/23.png stream=http://167.114.102.27/live/Kmzrd9tcdtPUVSLW6LquJg/1477853134/1952a01898073d1e561b9b4f2e42cbd7.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/23.png stream=http://167.114.102.27/live/q2arLOFWDM9MyciMI13ouA/1477872616/1952a01898073d1e561b9b4f2e42cbd7.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Star Wars & Star Trek (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/naqIHMO.jpg stream=http://167.114.102.27/live/XktiWriAsHYiV2JMxcm6wA/1477853133/9a045dead94fad2ceb3c5c808dd964b6.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/naqIHMO.jpg stream=http://167.114.102.27/live/nTQptaq4Srn99R9VLo1pcg/1477872615/9a045dead94fad2ceb3c5c808dd964b6.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, That 70s Show (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/12/70s-show.jpg stream=http://167.114.102.27/live/hblVO0oeBBycFd3TtRuE0A/1477853135/10174e112d64ae5e09f8f955865a5993.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/12/70s-show.jpg stream=http://167.114.102.27/live/Zicuvn2PSIRydp07P5DEDA/1477872617/10174e112d64ae5e09f8f955865a5993.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, The Big Bang Theory (RandomAirTime 24/7) (US) (English)
-logo=http://ia.media-imdb.com/images/M/MV5BMjI1Mzc4MDUwNl5BMl5BanBnXkFtZTgwMDAzOTIxMjE%40._V1_SY317_CR20%2C0%2C214%2C317_AL_.jpg stream=http://167.114.102.27/live/Hof66wjmU2fB6Nk6OhYffA/1477853136/d3517d7d92455b3cf3eb3e774acb4406.m3u8 cat=RandomAirTime 24/7
+logo=http://ia.media-imdb.com/images/M/MV5BMjI1Mzc4MDUwNl5BMl5BanBnXkFtZTgwMDAzOTIxMjE%40._V1_SY317_CR20%2C0%2C214%2C317_AL_.jpg stream=http://167.114.102.27/live/YUxb1Y9e-Z5N1vQ0QVSsyw/1477872618/d3517d7d92455b3cf3eb3e774acb4406.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, The Marvelous Misadventures of Flapjack (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/5.jpg stream=http://167.114.102.27/live/EKJ0qHLyPrJMS0KURuKGPg/1477853137/3be041f44c2035c41eea8268f238e741.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/5.jpg stream=http://167.114.102.27/live/CTO37iMa3GEwBuI9SzzkvQ/1477872618/3be041f44c2035c41eea8268f238e741.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, The Musketeers (RandomAirTime 24/7) (US) (English)
-logo=http://www.gstatic.com/tv/thumb/tvbanners/10426177/p10426177_b_v8_ac.jpg stream=http://167.114.102.27/live/SNDVSLyd1vLfi1y5m3KATg/1477853138/547ec0808af5da4e91c23fcd43738efe.m3u8 cat=RandomAirTime 24/7
+logo=http://www.gstatic.com/tv/thumb/tvbanners/10426177/p10426177_b_v8_ac.jpg stream=http://167.114.102.27/live/_kbDBjlcTozZmm0qjFZhPQ/1477872921/547ec0808af5da4e91c23fcd43738efe.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, The Office (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/07/the-office.jpg stream=http://167.114.102.27/live/75FcG95beTnrhSUJnxXo-Q/1477853139/e72f4545eb68c96c754f91fc01573517.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/07/the-office.jpg stream=http://167.114.102.27/live/BA2VDOAy2EBqeT1olpRTUA/1477872922/e72f4545eb68c96c754f91fc01573517.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, The Sopranos (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2016/02/The_sopranos.jpg stream=http://167.114.102.27/live/pcj8jWPNTUWuBBCJo_g1Bg/1477853140/a7f53103240c2f3f1679d704eeed1892.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2016/02/The_sopranos.jpg stream=http://167.114.102.27/live/24jO-fQUhhuzVFIrZy0_6w/1477872923/a7f53103240c2f3f1679d704eeed1892.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, The Tudors (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/eXIy5v8.jpg stream=http://167.114.102.27/live/o8zGpV3MoXc4OpCqZ2rj-w/1477853142/e77bb02d647edb2099cb6ea6fd7f18df.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/eXIy5v8.jpg stream=http://167.114.102.27/live/cnpoe7J-UIVVytN-3gWDQw/1477872924/e77bb02d647edb2099cb6ea6fd7f18df.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, The White Queen (RandomAirTime 24/7) (US) (English)
-logo=http://www.gstatic.com/tv/thumb/tvbanners/9457004/p9457004_b_v8_ac.jpg stream=http://167.114.102.27/live/VyX5Q5MVQ8cWidQzmrDwdQ/1477853143/e867325b1b9aafe0945ce0529e1c702f.m3u8 cat=RandomAirTime 24/7
+logo=http://www.gstatic.com/tv/thumb/tvbanners/9457004/p9457004_b_v8_ac.jpg stream=http://167.114.102.27/live/CzofzSnvXAZMC3RnM6PRjA/1477872926/e867325b1b9aafe0945ce0529e1c702f.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Top Gear UK (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/KrJZ9wc.jpg stream=http://167.114.102.27/live/AsxB7MS3MbWpMlcMZCsHwg/1477853147/0e3ca8eec23db7f7c0c6bf0047e22b0b.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/KrJZ9wc.jpg stream=http://167.114.102.27/live/S-fnAeZk2vcg1lO_Jl02ig/1477872928/0e3ca8eec23db7f7c0c6bf0047e22b0b.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Trailer Park Boys (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/11/Trailer-Park-Boys.jpg stream=http://167.114.102.27/live/C9ZzCpJfoLn0TWtz1uEySg/1477853146/d12d2c37e8c211f096ea78fd159643ba.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/11/Trailer-Park-Boys.jpg stream=http://167.114.102.27/live/SrKh6_rOJQBzU_lrcX5WEg/1477872927/d12d2c37e8c211f096ea78fd159643ba.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Vampire Diaries (RandomAirTime 24/7) (US) (English)
-logo=http://i.imgur.com/9SyHjpn.jpg stream=http://167.114.102.27/live/AUj08xrxrftoWcZJ1Kje2w/1477853153/52b8a5f24dc760714094959c4b5edb0f.m3u8 cat=RandomAirTime 24/7
+logo=http://i.imgur.com/9SyHjpn.jpg stream=http://167.114.102.27/live/oh6X2gz8SkNs5IHIoPWb9A/1477872930/52b8a5f24dc760714094959c4b5edb0f.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, WXYZ ABC Detroit (RandomAirTime 24/7) (US) (English)
 logo=http://extreme.com/media/img/extreme/tv_guide.png stream=http://spswxyz-i.akamaihd.net/hls/live/203378/anvato/348k/prog.m3u8?anv=1428346792363&X-Anvato- cat=RandomAirTime 24/7
 
 #EXTINF:0, Whose Line Is It Anyway? (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/12/whose-line.jpg stream=http://167.114.102.27/live/822W6iNwnocrBjh30mtAMg/1477853150/9185defbf5f091cd98fe4751b66f91b8.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/12/whose-line.jpg stream=http://167.114.102.27/live/u4nfvFNOBycE_Znxxz-swg/1477872622/9185defbf5f091cd98fe4751b66f91b8.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Workaholics (RandomAirTime 24/7) (US) (English)
-logo=https://www.arconaitv.me/wp-content/uploads/2015/06/24.png stream=http://167.114.102.27/live/7IxDRGJ0dWseja2WXqxvdw/1477853151/742523daef59db4b718409f46de05d0c.m3u8 cat=RandomAirTime 24/7
+logo=https://www.arconaitv.me/wp-content/uploads/2015/06/24.png stream=http://167.114.102.27/live/CBEoZWmWmN2ypwW2NV80vw/1477872623/742523daef59db4b718409f46de05d0c.m3u8 cat=RandomAirTime 24/7
 
 #EXTINF:0, Al Kass (Sports) (QA) (Arabic)
 logo=http://a2.mzstatic.com/us/r1000/045/Purple/c7/ce/51/mzi.rgfaorme.175x175-75.jpg stream=http://137.135.64.32:1935/kas/kas/gmswf.m3u8 cat=Sports
@@ -3235,13 +3235,16 @@ logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS37P4Hh8Fc8P1o7-6-ygx
 logo=https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRtXGOMwiABgnX7oRT8nvMpTBQ7AsTrrvY4bxaXcroQdiO6S_bev67s_jMM stream=rtmp://118.70.203.130:1935/channel/vtvcab16hd_vtvlive cat=Sports
 
 #EXTINF:0, Box Nation (Sports) (UK) (English)
-logo=https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/BoxNation2014Logo.png/100px-BoxNation2014Logo.png stream=http://167.114.102.27/live/Y8rQ8KYxQhr8CLtc5kPbHQ/1477853100/aca0a31d14c85e19f7023c9a3889f37b.m3u8 cat=Sports
+logo=https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/BoxNation2014Logo.png/100px-BoxNation2014Logo.png stream=http://167.114.102.27/live/2Wi8qNneocML6mZ-LmX2Xg/1477872894/aca0a31d14c85e19f7023c9a3889f37b.m3u8 cat=Sports
 
 #EXTINF:0, CBN Sports (Sports) (CA) (English)
-logo=http://sim04.in.com/dc4a3899b2a2929e5078d2d0e5826462_t.jpg stream=http://167.114.102.27/live/xTWjMOh_PMEhOvW9K2LyDw/1477853101/aca0a31d14c85e19f7023c9a3889f37b.m3u8 cat=Sports
+logo=http://sim04.in.com/dc4a3899b2a2929e5078d2d0e5826462_t.jpg stream=http://167.114.102.27/live/RqrOqQ6GIUMzcK8T-bDLGw/1477872895/aca0a31d14c85e19f7023c9a3889f37b.m3u8 cat=Sports
 
 #EXTINF:0, CDN Sportsmax (Sports) (ES) (Spanish)
 logo=http://i.imgur.com/JGzxhyy.jpg stream=http://ip-tv.zz.mu/live.php?kanal=261&user=velimirbl&pass=200200 cat=Sports
+
+#EXTINF:0, Canal Plus Sport (Sports) (FR) (French)
+logo=http://www.mm-eu.tv/wordpress/wp-content/uploads/2015/07/canal-plus-sport.png stream=http://teledunet.tv:8888/canal_plus_sport.m3u8?idu=roivampire_79042578300 cat=Sports
 
 #EXTINF:0, DeporTV (Sports) (AR) (Spanish)
 logo=http://i.imgur.com/kpJJHfa.png stream=http://186.33.227.200/DXTV/smil:DXTV.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8xNy8yMDE1IDEyOjM5OjEwIFBNJmhhc2hfdmFsdWU9enNzd2E cat=Sports
@@ -3253,7 +3256,7 @@ logo=http://www.peacetvconnection.com/images/dubaisports3-web.png stream=http://
 logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmw7jtnDafCO4-4uvGqPGhsD_If3EBm1VpKhqCjrbV1xOL-rqECzNG8Fk stream=http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/144/index.m3u8 cat=Sports
 
 #EXTINF:0, ESPN (Sports) (US) (English)
-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png stream=http://167.114.102.27/live/gHq9uJUxb7_H2cCLSXiBYQ/1477853102/aca0a31d14c85e19f7023c9a3889f37b.m3u8 cat=Sports
+logo=https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png stream=http://167.114.102.27/live/TpKgLtRVixFvPvIaW_iLqA/1477872896/aca0a31d14c85e19f7023c9a3889f37b.m3u8 cat=Sports
 
 #EXTINF:0, EuroSport 1 HD (Sports) (US) (English)
 logo=http://nowwatchtvlive.me/wp-content/uploads/2011/07/British-Eurosport-300x153.png stream=http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist.m3u8 cat=Sports
@@ -3310,7 +3313,7 @@ logo=http://completesportnews.com/wp-content/plugins/wp-o-matic/cache/ee553c9435
 logo=http://www.badgeunlock.com/wp-content/uploads/2012/03/RMOMRDYDDKJB3YNW.png stream=http://208.92.36.158/ipad/live/nba_ipad_1240.m3u8 cat=Sports
 
 #EXTINF:0, MUTV (Sports) (UK) (English)
-logo=https://upload.wikimedia.org/wikipedia/en/d/de/Former_MUTV_logo_(2).png stream=http://167.114.102.27/live/rNFfZg1ARHoWzlKY-lfAJg/1477853103/aca0a31d14c85e19f7023c9a3889f37b.m3u8 cat=Sports
+logo=https://upload.wikimedia.org/wikipedia/en/d/de/Former_MUTV_logo_(2).png stream=http://167.114.102.27/live/G7Hf5ulJz_8hIqtPV8c79w/1477872365/aca0a31d14c85e19f7023c9a3889f37b.m3u8 cat=Sports
 
 #EXTINF:0, Match Igra (Sports) (RU) (Russian)
 logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSexrlrMT4oV5y4NnBf4SF01wDVApClakJOsjxljtgyIRjBQQOEtYMhkFk stream=http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/529/index.m3u8 cat=Sports
@@ -3361,7 +3364,7 @@ logo=http://freerutube.com/wp-content/uploads/2013/05/Watch-Sport-TV-Live-TV-fro
 logo=http://i.imgur.com/yX8CKx3.png stream=rtmp://112.197.2.135:1935/colive/C042_SD_4  cat=Sports
 
 #EXTINF:0, Setanta Sports (Sports) (UK) (English)
-logo=http://www.koolpassion.com/tvchannel/logo/logo-SetantaSports.jpg stream=http://167.114.102.27/live/4fBEj0k7BV3Dcm7PWybFUQ/1477853104/aca0a31d14c85e19f7023c9a3889f37b.m3u8 cat=Sports
+logo=http://www.koolpassion.com/tvchannel/logo/logo-SetantaSports.jpg stream=http://167.114.102.27/live/9jcIBL7Z2wb_SlvaBJQlig/1477872366/aca0a31d14c85e19f7023c9a3889f37b.m3u8 cat=Sports
 
 #EXTINF:0, Sharjah Sports (Sports) (US) (Arabic)
 logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTX2cBJPryRUXK1zdLkLgPoCHS5RMAQv8y7jAzph8ck_-ii2yr24g-myw stream=rtmp://livestreaming.itworkscdn.net/smc4sportslive/smc4tv_360p cat=Sports
@@ -3469,7 +3472,7 @@ logo=http://www.frosat.net/images/logotv/original/viasat-sport_hd.jpg stream=htt
 logo=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRJqbjIts6pxlahr2AygDxHESNbdtqZ7BripTptMLWXvLjxgXjGW-elw4wS stream=http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/160/index.m3u8 cat=Sports
 
 #EXTINF:0, Willow HD (Sports) (US) (English)
-logo=http://www.x1musthaichicago.com/images/chicago-sa/logos/willow.png stream=http://167.114.102.27/live/vdPBla8ykIcdfWY1YFaH7g/1477853105/aca0a31d14c85e19f7023c9a3889f37b.m3u8 cat=Sports
+logo=http://www.x1musthaichicago.com/images/chicago-sa/logos/willow.png stream=http://167.114.102.27/live/cPgAewQanEzdK3wJbRsSww/1477872367/aca0a31d14c85e19f7023c9a3889f37b.m3u8 cat=Sports
 
 #EXTINF:0, boyets (Sports) (RU) (Russian)
 logo=http://www.televesti.ru/uploads/posts/2010-09/1283427144_boec.jpg stream=http://fr978.edem.tv/iptv/YKDXHPH6S4WQLX/150/index.m3u8 cat=Sports
@@ -3655,7 +3658,7 @@ logo=https://s-media-cache-ak0.pinimg.com/736x/7d/8b/4c/7d8b4c3bc50471c093a4747a
 logo=http://img.new.livestream.com/events/000000000029e1f4/4e99fc1f-a2db-44fd-8770-e97f7532f234_170x255.png stream=https://api.new.livestream.com/accounts/7089061/events/2744820/broadcasts/140511158.secure.m3u8 cat=News
 
 #EXTINF:0, ABC 13 ACTION NEWS (News) (US) (English)
-logo=http://img.new.livestream.com/events/00000000001ec3d3/4133ac10-51e2-49d1-b1ac-47cee965c41e_170x255.jpg stream=https://api.new.livestream.com/accounts/3567355/events/2016211/broadcasts/140517123.secure.m3u8 cat=News
+logo=http://img.new.livestream.com/events/00000000001ec3d3/4133ac10-51e2-49d1-b1ac-47cee965c41e_170x255.jpg stream=https://api.new.livestream.com/accounts/3567355/events/2016211/broadcasts/140576001.secure.m3u8 cat=News
 
 #EXTINF:0, ABC 6 (News) (US) (English)
 logo=http://img.new.livestream.com/events/00000000002374ac/bbabbccd-3669-4f9e-ab43-7397bcc6f964_170x255.png stream=https://api.new.livestream.com/accounts/5043608/events/2323628/broadcasts/140513966.secure.m3u8 cat=News
@@ -3673,7 +3676,7 @@ logo=http://img.new.livestream.com/events/0000000000215e39/74333f96-553f-499f-bd
 logo=http://img.new.livestream.com/events/0000000000244810/6361cc52-353b-4711-a197-bc6ac9605748_170x255.png stream=https://api.new.livestream.com/accounts/5299215/events/2377744/videos/118295316.secure.m3u8 cat=News
 
 #EXTINF:0, CBS 3 SPRINGFIELD (News) (US) (English)
-logo=http://img.new.livestream.com/events/000000000026e639/a1cbc976-2424-4999-bd98-283f673be581_170x255.png stream=https://api.new.livestream.com/accounts/6140816/events/2549305/broadcasts/140515262.secure.m3u8 cat=News
+logo=http://img.new.livestream.com/events/000000000026e639/a1cbc976-2424-4999-bd98-283f673be581_170x255.png stream=https://api.new.livestream.com/accounts/6140816/events/2549305/broadcasts/140563704.secure.m3u8 cat=News
 
 #EXTINF:0, CBS 6 WTVR-TV (News) (US) (English)
 logo=http://img.new.livestream.com/events/0000000000200f27/225e1164-4b22-48da-b44e-78c4429f4299_170x255.jpg stream=https://api.new.livestream.com/accounts/4003655/events/2101031/broadcasts/140511221.secure.m3u8 cat=News
@@ -3694,10 +3697,10 @@ logo=http://img.new.livestream.com/events/0000000000248eea/c6b768ed-4bf3-4abc-88
 logo=http://img.new.livestream.com/events/000000000019272d/4daa602f-562a-4847-b181-f21955e3d8f4_170x255.png stream=https://api.new.livestream.com/accounts/1859803/events/1648429/broadcasts/140513760.secure.m3u8 cat=News
 
 #EXTINF:0, FOX 10 NEWS (News) (US) (English)
-logo=http://img.new.livestream.com/events/000000000026e645/dc2b6043-9c5d-48d0-ae45-aff986a72f45_170x255.png stream=https://api.new.livestream.com/accounts/6140850/events/2549317/broadcasts/140516464.secure.m3u8 cat=News
+logo=http://img.new.livestream.com/events/000000000026e645/dc2b6043-9c5d-48d0-ae45-aff986a72f45_170x255.png stream=https://api.new.livestream.com/accounts/6140850/events/2549317/broadcasts/140575801.secure.m3u8 cat=News
 
 #EXTINF:0, FOX 11 LOS ANGELES (News) (US) (English)
-logo=http://img.new.livestream.com/events/000000000026e64c/545df306-63f5-4e3e-808a-4c5aac7e391c_170x255.png stream=https://api.new.livestream.com/accounts/6140873/events/2549324/broadcasts/140511056.secure.m3u8 cat=News
+logo=http://img.new.livestream.com/events/000000000026e64c/545df306-63f5-4e3e-808a-4c5aac7e391c_170x255.png stream=https://api.new.livestream.com/accounts/6140873/events/2549324/broadcasts/140575794.secure.m3u8 cat=News
 
 #EXTINF:0, FOX 13 NEWS SALT LAKE CITY (News) (US) (English)
 logo=http://img.new.livestream.com/events/00000000001e36a7/30bccd81-3b30-47c9-81fe-6f31f8175fd4_170x255.png stream=https://api.new.livestream.com/accounts/3417744/events/1980071/broadcasts/140515139.secure.m3u8 cat=News
@@ -3778,7 +3781,7 @@ logo=http://img.new.livestream.com/events/000000000033e0f7/6ffc697f-1ca4-4a9d-93
 logo=http://img.new.livestream.com/events/000000000039b471/e06e7808-9335-437d-92b6-8b9bc41f9e61_170x255.png stream=https://api.new.livestream.com/accounts/11981376/events/3781745/broadcasts/140513746.secure.m3u8 cat=News
 
 #EXTINF:0, KGUN 9 (News) (US) (English)
-logo=http://img.new.livestream.com/events/0000000000237476/e91915f7-c6f4-416e-9413-f4a5b9ff08d3_170x255.png stream=https://api.new.livestream.com/accounts/5043279/events/2323574/broadcasts/140514378.secure.m3u8 cat=News
+logo=http://img.new.livestream.com/events/0000000000237476/e91915f7-c6f4-416e-9413-f4a5b9ff08d3_170x255.png stream=https://api.new.livestream.com/accounts/5043279/events/2323574/broadcasts/140575805.secure.m3u8 cat=News
 
 #EXTINF:0, KIMT NEWS (News) (US) (English)
 logo=http://img.new.livestream.com/events/00000000001926f9/837e5628-900d-4ffc-9373-9338007128fe_170x255.png stream=https://api.new.livestream.com/accounts/1859647/events/1648377/broadcasts/140513703.secure.m3u8 cat=News
@@ -3793,13 +3796,13 @@ logo=http://img.new.livestream.com/events/000000000039392e/56a2948c-e206-4f86-b2
 logo=http://img.new.livestream.com/events/00000000003b736d/305583a4-b75f-42d3-bce9-00bc8781ef4d_170x255.png stream=https://api.new.livestream.com/accounts/12654794/events/3896173/broadcasts/140513449.secure.m3u8 cat=News
 
 #EXTINF:0, KOB (News) (US) (English)
-logo=http://img.new.livestream.com/events/000000000033e132/31acd8f8-4976-4e7e-a811-7db36d777726_170x255.png stream=https://api.new.livestream.com/accounts/10066184/events/3399986/broadcasts/140515477.secure.m3u8 cat=News
+logo=http://img.new.livestream.com/events/000000000033e132/31acd8f8-4976-4e7e-a811-7db36d777726_170x255.png stream=https://api.new.livestream.com/accounts/10066184/events/3399986/broadcasts/140575810.secure.m3u8 cat=News
 
 #EXTINF:0, KOIN 6 LIVE (News) (US) (English)
 logo=http://img.new.livestream.com/events/0000000000192cb9/d429e979-c22c-4ad8-b9bf-cb0a15faa77c_170x255.png stream=https://api.new.livestream.com/accounts/1864610/events/1649849/broadcasts/140517432.secure.m3u8 cat=News
 
 #EXTINF:0, KPHO (News) (US) (English)
-logo=http://img.new.livestream.com/events/0000000000294d44/80dde59e-6882-4b5d-a671-d68666ac420b_170x255.png stream=https://api.new.livestream.com/accounts/6907826/events/2706756/broadcasts/140515691.secure.m3u8 cat=News
+logo=http://img.new.livestream.com/events/0000000000294d44/80dde59e-6882-4b5d-a671-d68666ac420b_170x255.png stream=https://api.new.livestream.com/accounts/6907826/events/2706756/broadcasts/140575808.secure.m3u8 cat=News
 
 #EXTINF:0, KPLC (News) (US) (English)
 logo=http://img.new.livestream.com/events/00000000003890ae/9bdc42b8-23f7-4196-bf94-9316731d4570_170x255.jpg stream=https://api.new.livestream.com/accounts/11595658/events/3707054/broadcasts/140511137.secure.m3u8 cat=News
@@ -3814,7 +3817,7 @@ logo=http://img.new.livestream.com/events/00000000002ca6db/01dccdc3-eff4-4efc-93
 logo=http://img.new.livestream.com/events/00000000001914fb/916bed60-27de-424d-97fd-6cef1965cedd_170x255.png stream=https://api.new.livestream.com/accounts/1847373/events/1643771/broadcasts/140514093.secure.m3u8 cat=News
 
 #EXTINF:0, KSLA (News) (US) (English)
-logo=http://img.new.livestream.com/events/0000000000393907/18f4250d-b244-49ef-9870-1bafecd93379_170x255.jpg stream=https://api.new.livestream.com/accounts/11816591/events/3750151/broadcasts/140513741.secure.m3u8 cat=News
+logo=http://img.new.livestream.com/events/0000000000393907/18f4250d-b244-49ef-9870-1bafecd93379_170x255.jpg stream=https://api.new.livestream.com/accounts/11816591/events/3750151/broadcasts/140556199.secure.m3u8 cat=News
 
 #EXTINF:0, KSPR LIVE (News) (US) (English)
 logo=http://img.new.livestream.com/events/000000000022cd19/e432c8d5-e654-4ff8-9a7b-d1e2ce270226_170x255.png stream=https://api.new.livestream.com/accounts/4835775/events/2280729/broadcasts/140511928.secure.m3u8 cat=News
@@ -3823,7 +3826,7 @@ logo=http://img.new.livestream.com/events/000000000022cd19/e432c8d5-e654-4ff8-9a
 logo=http://img.new.livestream.com/events/00000000003a0084/b65bbbe9-bb19-4bd9-a495-10553c3be738_170x255.png stream=https://api.new.livestream.com/accounts/12150160/events/3801220/broadcasts/140512692.secure.m3u8 cat=News
 
 #EXTINF:0, KSWB (News) (US) (English)
-logo=http://img.new.livestream.com/events/000000000030ac27/f91843b6-d9d8-4434-970f-b6618d92109c_170x255.png stream=https://api.new.livestream.com/accounts/9263055/events/3189799/broadcasts/140516805.secure.m3u8 cat=News
+logo=http://img.new.livestream.com/events/000000000030ac27/f91843b6-d9d8-4434-970f-b6618d92109c_170x255.png stream=https://api.new.livestream.com/accounts/9263055/events/3189799/broadcasts/140575804.secure.m3u8 cat=News
 
 #EXTINF:0, KTLA (News) (US) (English)
 logo=http://img.new.livestream.com/events/000000000030abc9/a4f1d126-0474-42e7-a4b1-bc4ed0c1cde7_170x255.png stream=https://api.new.livestream.com/accounts/9262780/events/3189705/broadcasts/140516838.secure.m3u8 cat=News
@@ -3898,7 +3901,7 @@ logo=http://img.new.livestream.com/events/00000000003b3b61/19efb4fe-a1f4-41fe-a2
 logo=http://img.new.livestream.com/events/00000000003890b9/3435e3c7-5eb8-43a3-819d-a1524baec2c7_170x255.jpg stream=https://api.new.livestream.com/accounts/11595706/events/3707065/broadcasts/140513551.secure.m3u8 cat=News
 
 #EXTINF:0, WAFF (News) (US) (English)
-logo=http://img.new.livestream.com/events/00000000003ad417/a2240141-1793-4409-b9be-6a5d5484d596_170x255.jpg stream=https://api.new.livestream.com/accounts/12447210/events/3855383/broadcasts/140513076.secure.m3u8 cat=News
+logo=http://img.new.livestream.com/events/00000000003ad417/a2240141-1793-4409-b9be-6a5d5484d596_170x255.jpg stream=https://api.new.livestream.com/accounts/12447210/events/3855383/broadcasts/140560669.secure.m3u8 cat=News
 
 #EXTINF:0, WAKA (News) (US) (English)
 logo=http://img.new.livestream.com/events/0000000000318573/91f05af4-4d01-4faa-84c7-dd851f902418_170x255.png stream=https://api.new.livestream.com/accounts/9486828/events/3245427/broadcasts/140512757.secure.m3u8 cat=News
@@ -4495,451 +4498,451 @@ logo=http://i.imgur.com/GhK0S7R.jpg stream=http://23.237.22.12:8000/tp/CANAL387/
 logo=http://i.imgur.com/GhK0S7R.jpg stream=http://23.237.22.12:8000/tp/CANAL651/PROFILE03.m3u8 cat=Entertainment
 
 #EXTINF:0, 5 USA (Family) (UK) (English)
-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Channel_5_USA.svg/220px-Channel_5_USA.svg.png stream=http://198.179.30.110/live/845.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Family
+logo=https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Channel_5_USA.svg/220px-Channel_5_USA.svg.png stream=http://198.179.30.110/live/845.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Family
 
 #EXTINF:0, 5* (Family) (UK) (English)
-logo=http://img1.wikia.nocookie.net/__cb20111103235207/logopedia/images/5/57/Channel_5_logo_2011.svg stream=http://204.107.27.250/live/851.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Family
+logo=http://img1.wikia.nocookie.net/__cb20111103235207/logopedia/images/5/57/Channel_5_logo_2011.svg stream=http://204.107.27.250/live/851.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Family
 
 #EXTINF:0, BBC 1 (Entertainment) (UK) (English)
-logo=https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/BBC_One_logo.svg/250px-BBC_One_logo.svg.png stream=http://198.179.30.109/live/14.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Entertainment
+logo=https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/BBC_One_logo.svg/250px-BBC_One_logo.svg.png stream=http://198.179.30.109/live/14.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Entertainment
 
 #EXTINF:0, BBC 2 (Entertainment) (UK) (English)
-logo=http://nowwatchtvlive.me/wp-content/uploads/2011/07/BBC_Two_logo.jpg stream=http://198.179.30.109/live/25.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Entertainment
+logo=http://nowwatchtvlive.me/wp-content/uploads/2011/07/BBC_Two_logo.jpg stream=http://198.179.30.109/live/25.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Entertainment
 
 #EXTINF:0, BBC 3 (Entertainment) (UK) (English)
-logo=http://www.hud.ac.uk/media/universityofhuddersfield/content/image/news/newsstories/1209-september2012/thumbnailimage/09_fasta_pasta_thumb.jpg stream=http://198.179.30.109/live/113.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Entertainment
+logo=http://www.hud.ac.uk/media/universityofhuddersfield/content/image/news/newsstories/1209-september2012/thumbnailimage/09_fasta_pasta_thumb.jpg stream=http://198.179.30.109/live/113.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Entertainment
 
 #EXTINF:0, BBC 4 (Entertainment) (UK) (English)
-logo=http://www.freeview.co.uk/wp-content/uploads/2015/08/bbc4.png stream=http://198.179.30.109/live/103.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Entertainment
+logo=http://www.freeview.co.uk/wp-content/uploads/2015/08/bbc4.png stream=http://198.179.30.109/live/103.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Entertainment
 
 #EXTINF:0, BBC News (News) (UK) (English)
-logo=http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png stream=http://204.107.27.137/live/27.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=News
+logo=http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-world-news.png stream=http://204.107.27.137/live/27.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=News
 
 #EXTINF:0, BBC Parliament (News) (UK) (English)
-logo=http://www.bbc.co.uk/staticarchive/873f1bab6fdf86683b5a457ddeb71f411da3c1e3.jpg stream=http://198.179.30.109/live/1666.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=News
+logo=http://www.bbc.co.uk/staticarchive/873f1bab6fdf86683b5a457ddeb71f411da3c1e3.jpg stream=http://198.179.30.109/live/1666.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=News
 
 #EXTINF:0, Cbbc (Family) (UK) (English)
-logo=http://www.bbc.co.uk/staticarchive/d4dcd0f7ce847253e489a1f70d184358b95e73e7.jpg stream=http://204.107.27.250/live/29.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Family
+logo=http://www.bbc.co.uk/staticarchive/d4dcd0f7ce847253e489a1f70d184358b95e73e7.jpg stream=http://204.107.27.250/live/29.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Family
 
 #EXTINF:0, CBS Action (Entertainment) (UK) (English)
-logo=http://www.cbsaction.tv/grfx/pl/cbs-action-logo-flag.png stream=http://198.179.30.110/live/1952.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Entertainment
+logo=http://www.cbsaction.tv/grfx/pl/cbs-action-logo-flag.png stream=http://198.179.30.110/live/1952.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Entertainment
 
 #EXTINF:0, CBS Drama (Entertainment) (UK) (English)
-logo=http://static.beeline.ru/upload/contents/338/logo/CBS_Drama_195.jpg stream=http://204.107.27.137/live/1805.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Entertainment
+logo=http://static.beeline.ru/upload/contents/338/logo/CBS_Drama_195.jpg stream=http://204.107.27.137/live/1805.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Entertainment
 
 #EXTINF:0, CBS Reality (Entertainment) (UK) (English)
-logo=http://www.digitalmediacentre.com/wp-content/uploads/2013/07/CBS-reality1.gif stream=http://204.107.27.137/live/1808.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Entertainment
+logo=http://www.digitalmediacentre.com/wp-content/uploads/2013/07/CBS-reality1.gif stream=http://204.107.27.137/live/1808.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Entertainment
 
 #EXTINF:0, CBSReality+1 (Entertainment) (UK) (English)
-logo=http://static.filmon.com/assets/channels/1811/big_logo.png stream=http://204.107.27.137/live/1811.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Entertainment
+logo=http://static.filmon.com/assets/channels/1811/big_logo.png stream=http://204.107.27.137/live/1811.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Entertainment
 
 #EXTINF:0, CBeebies (Family) (UK) (English)
-logo=http://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/400px-CBeebies.svg.png stream=http://198.179.30.109/live/3191.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Family
+logo=http://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/400px-CBeebies.svg.png stream=http://198.179.30.109/live/3191.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Family
 
 #EXTINF:0, Channel 4 (Entertainment) (UK) (English)
-logo=http://www.apmassociates.net/images/channel%204%20logo.jpg stream=http://198.179.30.108/live/2.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Entertainment
+logo=http://www.apmassociates.net/images/channel%204%20logo.jpg stream=http://198.179.30.108/live/2.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Entertainment
 
 #EXTINF:0, Channel 5 (Entertainment) (UK) (English)
-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Channel_5_Old_Logo.svg/100px-Channel_5_Old_Logo.svg.png stream=http://198.179.30.108/live/22.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Entertainment
+logo=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Channel_5_Old_Logo.svg/100px-Channel_5_Old_Logo.svg.png stream=http://198.179.30.108/live/22.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Entertainment
 
 #EXTINF:0, Dave (Entertainment) (UK) (English)
-logo=http://www.radioandtelly.co.uk/images/davelogo.gif stream=http://204.107.27.250/live/370.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Entertainment
+logo=http://www.radioandtelly.co.uk/images/davelogo.gif stream=http://204.107.27.250/live/370.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Entertainment
 
 #EXTINF:0, E4 (Family) (UK) (English)
-logo=https://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_(channel)_logo.svg/251px-E4_(channel)_logo.svg.png stream=http://204.107.27.137/live/65.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Family
+logo=https://upload.wikimedia.org/wikipedia/en/thumb/1/18/E4_(channel)_logo.svg/251px-E4_(channel)_logo.svg.png stream=http://204.107.27.137/live/65.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Family
 
 #EXTINF:0, FILM4 (Movie Channels) (UK) (English)
-logo=http://www.film4library.com/Graphics/logo.jpg stream=http://198.179.30.108/live/13.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Movie Channels
+logo=http://www.film4library.com/Graphics/logo.jpg stream=http://198.179.30.108/live/13.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Movie Channels
 
 #EXTINF:0, Food Network+1 (Lifestyle) (US) (English)
-logo=http://vignette1.wikia.nocookie.net/logopedia/images/d/d8/Food_Network.svg/revision/latest/scale-to-width-down/150%3Fcb%3D20130325230146 stream=http://204.107.27.137/live/1829.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Lifestyle
+logo=http://vignette1.wikia.nocookie.net/logopedia/images/d/d8/Food_Network.svg/revision/latest/scale-to-width-down/150%3Fcb%3D20130325230146 stream=http://204.107.27.137/live/1829.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Lifestyle
 
 #EXTINF:0, Food Network (Lifestyle) (US) (English)
-logo=https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png stream=http://204.107.27.137/live/20.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Lifestyle
+logo=https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png stream=http://204.107.27.137/live/20.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Lifestyle
 
 #EXTINF:0, Horror Channel (Movie Channels) (UK) (English)
-logo=http://www.cbsaction.tv/grfx/pl/cbs-horror-logo-flag.png stream=http://204.107.27.250/live/836.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Movie Channels
+logo=http://www.cbsaction.tv/grfx/pl/cbs-horror-logo-flag.png stream=http://204.107.27.250/live/836.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Movie Channels
 
 #EXTINF:0, ITV 1 (Entertainment) (UK) (English)
-logo=http://www.andrewlloydwebber.com/wp-content/uploads/2012/09/145.gif stream=http://198.179.30.108/live/11.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Entertainment
+logo=http://www.andrewlloydwebber.com/wp-content/uploads/2012/09/145.gif stream=http://198.179.30.108/live/11.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Entertainment
 
 #EXTINF:0, ITV 2 (Entertainment) (UK) (English)
-logo=http://presscentre.itvstatic.com/presscentre/sites/presscentre/files/styles/pi_large/public/itv2-logo-hr.jpg?itok=DXQjCDbC stream=http://198.179.30.108/live/67.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Entertainment
+logo=http://presscentre.itvstatic.com/presscentre/sites/presscentre/files/styles/pi_large/public/itv2-logo-hr.jpg?itok=DXQjCDbC stream=http://198.179.30.108/live/67.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Entertainment
 
 #EXTINF:0, ITV 3 (Entertainment) (UK) (English)
-logo=http://www.logoed.co.uk/wp-content/uploads/2013/01/article_a308896e87455b9a_1358133224_9j-4aaqsk.jpeg stream=http://198.179.30.108/live/26.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Entertainment
+logo=http://www.logoed.co.uk/wp-content/uploads/2013/01/article_a308896e87455b9a_1358133224_9j-4aaqsk.jpeg stream=http://198.179.30.108/live/26.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Entertainment
 
 #EXTINF:0, ITV 4 (Entertainment) (UK) (English)
-logo=http://presscentre.itvstatic.com/presscentre/sites/presscentre/files/styles/pi_large/public/ITV4%20logo.jpg?itok=0sXQ4SFG stream=http://198.179.30.108/live/101.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Entertainment
+logo=http://presscentre.itvstatic.com/presscentre/sites/presscentre/files/styles/pi_large/public/ITV4%20logo.jpg?itok=0sXQ4SFG stream=http://198.179.30.108/live/101.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Entertainment
 
 #EXTINF:0, ITV Be (Entertainment) (UK) (English)
-logo=https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ITV_logo_2013.svg/200px-ITV_logo_2013.svg.png stream=http://204.107.27.250/live/3211.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Entertainment
+logo=https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ITV_logo_2013.svg/200px-ITV_logo_2013.svg.png stream=http://204.107.27.250/live/3211.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Entertainment
 
 #EXTINF:0, ITV1 +1 (Entertainment) (UK) (English)
-logo=http://t1.gstatic.com/images?q=tbn:ANd9GcR5Lmt7c_0ZiwbenOVcn7rPLSpsktYx8iyV6qW9vtKfhXQkzUQp8M5oy2s stream=http://204.107.27.137/live/1817.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Entertainment
+logo=http://t1.gstatic.com/images?q=tbn:ANd9GcR5Lmt7c_0ZiwbenOVcn7rPLSpsktYx8iyV6qW9vtKfhXQkzUQp8M5oy2s stream=http://204.107.27.137/live/1817.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Entertainment
 
 #EXTINF:0, ITV2 +1 (Entertainment) (UK) (English)
-logo=http://t1.gstatic.com/images?q=tbn:ANd9GcR5Lmt7c_0ZiwbenOVcn7rPLSpsktYx8iyV6qW9vtKfhXQkzUQp8M5oy2s stream=http://204.107.27.137/live/1820.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Entertainment
+logo=http://t1.gstatic.com/images?q=tbn:ANd9GcR5Lmt7c_0ZiwbenOVcn7rPLSpsktYx8iyV6qW9vtKfhXQkzUQp8M5oy2s stream=http://204.107.27.137/live/1820.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Entertainment
 
 #EXTINF:0, ITV3 +1 (Entertainment) (UK) (English)
-logo=http://live-tv.me/wp-content/uploads/2014/08/ITV3-+1.gif stream=http://204.107.27.137/live/1823.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Entertainment
+logo=http://live-tv.me/wp-content/uploads/2014/08/ITV3-+1.gif stream=http://204.107.27.137/live/1823.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Entertainment
 
 #EXTINF:0, ITV4 +1 (Entertainment) (UK) (English)
-logo=http://t1.gstatic.com/images?q=tbn:ANd9GcR5Lmt7c_0ZiwbenOVcn7rPLSpsktYx8iyV6qW9vtKfhXQkzUQp8M5oy2s stream=http://204.107.27.137/live/1826.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Entertainment
+logo=http://t1.gstatic.com/images?q=tbn:ANd9GcR5Lmt7c_0ZiwbenOVcn7rPLSpsktYx8iyV6qW9vtKfhXQkzUQp8M5oy2s stream=http://204.107.27.137/live/1826.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Entertainment
 
 #EXTINF:0, MORE4 (Entertainment) (UK) (English)
-logo=http://i1.cdnds.net/10/04/logo_more4_0.jpg stream=http://204.107.27.137/live/97.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Entertainment
+logo=http://i1.cdnds.net/10/04/logo_more4_0.jpg stream=http://204.107.27.137/live/97.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Entertainment
 
 #EXTINF:0, Music 1 (Music) (PH) (English)
-logo=http://www.musicone.fm/images/m1-cover.jpg stream=http://204.107.27.250/live/95.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Music
+logo=http://www.musicone.fm/images/m1-cover.jpg stream=http://204.107.27.250/live/95.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Music
 
 #EXTINF:0, PICK (Entertainment) (UK) (English)
-logo=https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Pick_(TV_channel).png/150px-Pick_(TV_channel).png stream=http://204.107.27.250/live/371.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Entertainment
+logo=https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Pick_(TV_channel).png/150px-Pick_(TV_channel).png stream=http://204.107.27.250/live/371.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Entertainment
 
 #EXTINF:0, Quest Tv (Entertainment) (UK) (English)
-logo=http://www.questtv.co.uk/wp-content/themes/dni_wp_theme_quest_uk/img/quest_logo.png stream=http://204.107.27.199/live/2707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Entertainment
+logo=http://www.questtv.co.uk/wp-content/themes/dni_wp_theme_quest_uk/img/quest_logo.png stream=http://204.107.27.199/live/2707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Entertainment
 
 #EXTINF:0, Really (Documentary) (UK) (English)
-logo=https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Really_logo_2013.svg/250px-Really_logo_2013.svg.png stream=http://204.107.27.250/live/372.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Documentary
+logo=https://upload.wikimedia.org/wikipedia/en/thumb/4/4d/Really_logo_2013.svg/250px-Really_logo_2013.svg.png stream=http://204.107.27.250/live/372.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Documentary
 
 #EXTINF:0, TravelPlus (Lifestyle) (UK) (English)
-logo=http://www.travelplus.ca/img/tp-logo.png stream=http://204.107.27.250/live/842.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Lifestyle
+logo=http://www.travelplus.ca/img/tp-logo.png stream=http://204.107.27.250/live/842.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Lifestyle
 
 #EXTINF:0, Yesterday (Documentary) (UK) (English)
-logo=https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/200px-Yesterday_logo_2012.svg.png stream=http://204.107.27.199/live/1039.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Documentary
+logo=https://upload.wikimedia.org/wikipedia/en/thumb/d/d0/Yesterday_logo_2012.svg/200px-Yesterday_logo_2012.svg.png stream=http://204.107.27.199/live/1039.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Documentary
 
 #EXTINF:0, Tru TV (Entertainment) (US) (English)
-logo=http://www.satellitesolutions.com/dishnetwork/images/channels/trutv.png stream=http://204.107.27.137/live/3707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbeacc91755daec42e903ad366ebec3e130fe4880728b9c3ad0f311e833fcccd4f9ab6422aec8e01ffcea601e2664d460eb272002e770169df25251cd9e94a3871049c4b6e6e28f98bc45ca88da4f5a1d0916571542d29321e84055a3700b85da297057484c678b912b58b080df74648a6fdb6b9d653b63ec5e1eb266f796e71d9a7f2a9e25d3530aa6f864795583bdf7c8 cat=Entertainment
+logo=http://www.satellitesolutions.com/dishnetwork/images/channels/trutv.png stream=http://204.107.27.137/live/3707.high.stream/playlist.m3u8?id=0ad5aac39bb13fbee47cb7bb7e4cca0204bab3c4775e32fdc739844da420dd4c4afb5f960c76add476ffc324a071fd27bfd4cc68e4e529d927e29679376b802ab68c99f5735388096431a48d6275dd9ac581eb35678ab1bc7515c8c528905c5b7e10e19691b3984eaa79fb78c315049d32f6ea21c7d490798a8c7363306ade1c43c9bbbb1a241591cf8b050226ea76bc0b9e8d76967ade1f cat=Entertainment
 
 #EXTINF:0, AMC cCloudTV.org only (Entertainment) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/amc-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/amc-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, AXN cCloudTV.org only (Entertainment) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/axn-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/axn-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, Animal Planet cCloudTV.org only (Documentary) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/animalplanet-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Documentary
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/animalplanet-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Documentary
 
 #EXTINF:0, At The Races cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/attheraces-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/attheraces-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, BBC One cCloudTV.org only (Entertainment) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bbcone-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bbcone-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, BBC Two cCloudTV.org only (Entertainment) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bbctwo-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bbctwo-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, BT Sport 1 cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/btsport1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/btsport1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, BT Sport 2 cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/btsport2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/btsport2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, BT Sport ESPN cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/espnuk-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/espnuk-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, BT Sport Europe cCloudTV.org only (Sports) (EU) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/btsporteurope-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/btsporteurope-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Box Nation cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/boxnation-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/boxnation-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Canal+ Futbol cCloudTV.org only (Sports) (SP) (Spanish)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/canalfutbol-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/canalfutbol-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Canal+ Liga cCloudTV.org only (Sports) (SP) (Spanish)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/canalliga-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/canalliga-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Canal+ Sport cCloudTV.org only (Sports) (SP) (Spanish)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/canalsport-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/canalsport-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Cartoon Network cCloudTV.org only (Family) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/cartoonnetwork-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Family
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/cartoonnetwork-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Family
 
 #EXTINF:0, Chelsea TV cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/chelseatv-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/chelseatv-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Discovery Channel cCloudTV.org only (Documentary) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/discovery-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Documentary
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/discovery-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Documentary
 
 #EXTINF:0, Disney Channel cCloudTV.org only (Family) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/disneychannel-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Family
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/disneychannel-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Family
 
 #EXTINF:0, Disney Junior cCloudTV.org only (Family) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/disneyjunior-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Family
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/disneyjunior-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Family
 
 #EXTINF:0, Disney XD cCloudTV.org only (Family) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/disneyxd-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Family
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/disneyxd-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Family
 
 #EXTINF:0, ESPN UK cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/espnuk-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/espnuk-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, ESPN USA cCloudTV.org only (Sports) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/espnusa-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/espnusa-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Eurosport 2 cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/eurosport2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/eurosport2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Eurosport cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/eurosport-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/eurosport-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, FOX cCloudTV.org only (Entertainment) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/fox-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/fox-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, FX cCloudTV.org only (Entertainment) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/fx-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/fx-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, Fox Sports 1 cCloudTV.org only (Sports) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/foxsports1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/foxsports1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Fox Sports 2 cCloudTV.org only (Sports) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/foxsports2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/foxsports2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Golf Channel cCloudTV.org only (Sports) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/golfchannel-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/golfchannel-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, HBO cCloudTV.org only (Entertainment) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/hbo-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/hbo-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, History Channel cCloudTV.org only (Documentary) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/history-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Documentary
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/history-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Documentary
 
 #EXTINF:0, ITV 1 cCloudTV.org only (Entertainment) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/itv1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/itv1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, ITV 2 cCloudTV.org only (Entertainment) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/itv2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/itv2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, LFCTV cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/lfctv-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/lfctv-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, MTV cCloudTV.org only (Entertainment) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/mtv-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/mtv-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, MUTV cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/mutv-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/mutv-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Motors TV cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/motorstv-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/motorstv-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, NBA TV cCloudTV.org only (Sports) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/nbatv-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/nbatv-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, NBCSN cCloudTV.org only (Sports) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/nbcsn-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/nbcsn-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, NFL Network cCloudTV.org only (Sports) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/nflnetwork-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/nflnetwork-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, National Geographic cCloudTV.org only (Documentary) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/natgeo-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Documentary
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/natgeo-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Documentary
 
 #EXTINF:0, Nick cCloudTV.org only (Family) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/nick-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Family
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/nick-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Family
 
 #EXTINF:0, POGO cCloudTV.org only (Family) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/pogo-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Family
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/pogo-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Family
 
 #EXTINF:0, PTV Sports cCloudTV.org only (Sports) (PS) (Urdu)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/ptvsports-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/ptvsports-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Premier Sports cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/premiersports-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/premiersports-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Racing UK cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/racinguk-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/racinguk-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, SYFY cCloudTV.org only (Entertainment) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/syfy-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/syfy-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, Setanta Sports cCloudTV.org only (Sports) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/setantasports-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/setantasports-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Sky Atlantic cCloudTV.org only (Entertainment) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skyatlantic-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skyatlantic-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, Sky Calcio cCloudTV.org only (Sports) (IT) (Italian)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skycalcio-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skycalcio-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Sky Movies Action cCloudTV.org only (Entertainment) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skymoviesaction-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skymoviesaction-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, Sky Movies Comedy cCloudTV.org only (Entertainment) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skymoviescomedy-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skymoviescomedy-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, Sky Movies Crime cCloudTV.org only (Entertainment) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skymoviescrime-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skymoviescrime-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, Sky Movies Disney cCloudTV.org only (Entertainment) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skymoviesdisney-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skymoviesdisney-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, Sky Movies Family cCloudTV.org only (Entertainment) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skymoviesfamily-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skymoviesfamily-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, Sky Movies Premiere cCloudTV.org only (Entertainment) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skymoviespremiere-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skymoviespremiere-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, Sky Movies Select cCloudTV.org only (Entertainment) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skymoviesselect-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skymoviesselect-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, Sky Movies Showcase cCloudTV.org only (Entertainment) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skymoviesshowcase-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skymoviesshowcase-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, Sky Sports 1 Italia cCloudTV.org only (Sports) (IT) (Italian)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysport1italia-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysport1italia-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Sky Sports 1 cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysports1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysports1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Sky Sports 2 Italia cCloudTV.org only (Sports) (IT) (Italian)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysport2italia-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysport2italia-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Sky Sports 2 cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysports2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysports2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Sky Sports 3 Italia cCloudTV.org only (Sports) (IT) (Italian)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysport3italia-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysport3italia-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Sky Sports 3 cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysports3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysports3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Sky Sports 4 Italia cCloudTV.org only (Sports) (IT) (Italian)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysport24italia-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysport24italia-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Sky Sports 4 cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysports4-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysports4-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Sky Sports 5 cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysports5-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysports5-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Sky Sports Box Office cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysportsboxoffice-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysportsboxoffice-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Sky Sports F1 cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysportsf1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysportsf1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Sky Sports MotoGP cCloudTV.org only (Sports) (IT) (Italian)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysportmotogp-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysportmotogp-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Sky Sports News cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysportsnews-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/skysportsnews-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Sony Six cCloudTV.org only (Sports) (IN) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/sonysix-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/sonysix-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Sport TV 1 cCloudTV.org only (Sports) (PR) (Portuguese)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/sporttv1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/sporttv1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Sport TV 2 cCloudTV.org only (Sports) (PR) (Portuguese)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/sporttv2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/sporttv2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Sport TV 3 cCloudTV.org only (Sports) (PR) (Portuguese)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/sporttv3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/sporttv3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Sport TV 4 cCloudTV.org only (Sports) (PR) (Portuguese)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/sporttv4-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/sporttv4-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Sport TV 5 cCloudTV.org only (Sports) (PR) (Portuguese)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/sporttv5-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/sporttv5-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Sportsnet ONE cCloudTV.org only (Sports) (CA) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/snone-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/snone-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Sportsnet Ontario cCloudTV.org only (Sports) (CA) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/snontario-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/snontario-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Sportsnet World cCloudTV.org only (Sports) (CA) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/snwl-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/snwl-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Star Movies cCloudTV.org only (Entertainment) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/starmovies-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/starmovies-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, Star Sports 3 cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/starsports3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/starsports3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, TEN 1 cCloudTV.org only (Sports) (IN) (English / Hindi)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/ten1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/ten1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, TLC cCloudTV.org only (Entertainment) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/tlc-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/tlc-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, TNT cCloudTV.org only (Entertainment) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/tnt-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/tnt-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, TSN 2 cCloudTV.org only (Sports) (CA) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/tsn2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/tsn2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, TSN cCloudTV.org only (Sports) (CA) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/tsn-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/tsn-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, VH1 cCloudTV.org only (Entertainment) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/vh1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/vh1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, WWE Network cCloudTV.org only (Sports) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/wwe-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/wwe-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, Willow TV cCloudTV.org only (Sports) (US) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/willow-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/willow-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, beIN Movies 1 cCloudTV.org only (Entertainment) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/beinmovies1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/beinmovies1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, beIN Movies 2 cCloudTV.org only (Entertainment) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/beinmovies2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/beinmovies2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, beIN Movies 3 cCloudTV.org only (Entertainment) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/beinmovies3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Entertainment
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/beinmovies3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Entertainment
 
 #EXTINF:0, beIN Sports 1 MAX cCloudTV.org only (Sports) (FR) (French)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein1fr-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein1fr-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, beIN Sports 1 cCloudTV.org only (Sports) (AR) (Arabic)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein1-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, beIN Sports 10 cCloudTV.org only (Sports) (AR) (Arabic)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein10-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein10-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, beIN Sports 11 cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein11-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein11-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, beIN Sports 12 cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein12-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein12-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, beIN Sports 13 cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein13-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein13-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, beIN Sports 2 MAX cCloudTV.org only (Sports) (FR) (French)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein2fr-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein2fr-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, beIN Sports 2 cCloudTV.org only (Sports) (AR) (Arabic)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein2-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, beIN Sports 3 MAX cCloudTV.org only (Sports) (FR) (French)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein3fr-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein3fr-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, beIN Sports 3 cCloudTV.org only (Sports) (AR) (Arabic)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein3-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, beIN Sports 4 cCloudTV.org only (Sports) (AR) (Arabic)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein4-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein4-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, beIN Sports 5 cCloudTV.org only (Sports) (AR) (Arabic)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein5-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein5-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, beIN Sports 6 cCloudTV.org only (Sports) (AR) (Arabic)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein6-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein6-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, beIN Sports 7 cCloudTV.org only (Sports) (AR) (Arabic)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein7-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein7-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, beIN Sports 8 cCloudTV.org only (Sports) (AR) (Arabic)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein8-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein8-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, beIN Sports 9 cCloudTV.org only (Sports) (AR) (Arabic)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein9-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/bein9-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, beIN Sports News cCloudTV.org only (Sports) (UK) (English)
-logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/beinsportsnews-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiAzOjUwOjMxIFBNJmhhc2hfdmFsdWU9WlBRVUVmZkd3Ukhwd2tGcTE3VnZvZz09JnZhbGlkbWludXRlcz0xMCZpZD0xMDguMTYyLjIzNy4xMDMmc3RybV9sZW49NQ== cat=Sports
+logo=http://i.imgur.com/IWOxGFVl.png stream=http://89.248.168.18:8081/live/beinsportsnews-hq/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMzAvMjAxNiA5OjE1OjMxIFBNJmhhc2hfdmFsdWU9MC9MUXRweWxjYm9NVzgrRzNyd25vUT09JnZhbGlkbWludXRlcz0xMCZpZD0xNzIuNjguNzkuMTE5JnN0cm1fbGVuPTU= cat=Sports
 
 #EXTINF:0, 30 ROCKS ST RTMP cCloudTV.org (General) (US) (English)
 logo=http://snapshots.streamlive.to/snapshots/jxalb655fw9csng_snapshot.jpg stream=rtmp://62.210.139.136:1935/edge/_definst_/jxalb655fw9csng?xs=_we_MnRhZzRkemd3b2Y1bWEyfDE0NzU0MjQzMTJ8MzEuMjIwLjE3LjE2MHw1N2VmZGViOGU1ZmI4fDRkYzNmOTBlNDYwNGE4NjY5YjE3M2NlM2Y3NjU1MWFiNDEzYWU5YzQ.&userId=fDE0NzU0MjQzMTJ8MDI3MDRmMjYwMWY1MjY2MzY2NmU0MTljZjJiMjMwMjExYjczMGFhNg.. cat=General
@@ -5443,7 +5446,7 @@ logo=http://i.imgur.com/V7DO5nZ.jpg stream=http://s2.iptvapi.com:8081/yesterday/
 logo=http://i.imgur.com/V7DO5nZ.jpg stream=http://s2.iptvapi.com:8081/M4M/index.m3u8?token=JcV4e3QieSZhWWL2GK41cA cat=Movies
 
 #EXTINF:0, ABC (Entertainment) (US) (English)
-logo=http://i.imgur.com/cii7lBH.jpg stream=http://banedorrance.pro/proxy.php?http://ilv12.oedg.ustvnow.com/ilv01/smil:50692WHTMUSTVNOW/playlist.m3u8?f1a2823da53acb9b9d726286219af87f1fcd78ab11342de7b4260747642721f26dfc35108b580e7c5b4763c833f20afc6432113055c5311aff4b1927f2 cat=Entertainment
+logo=http://i.imgur.com/cii7lBH.jpg stream=http://banedorrance.pro/proxy.php?http://ilv12.lledg.ustvnow.com/ilv01/smil:50692WHTMUSTVNOW/playlist.m3u8?p=31&ip=31.220.105.231&ci=28800&cd=300&e=1477891147&cf=1478035147&h=f0e65d24d1c9026dac094ccc90344cb6 cat=Entertainment
 
 #EXTINF:0, 10 Endrathukulla 2015 (OnDemandMovies) (IN) (Tamil)
 logo=http://allcinegallery.com/wp-content/gallery/13-oct-2015/10-Endrathukulla-Movie-Posters-30.jpg?3e5e27 stream=http://185.45.13.130:8777/hls/inuqiwsuyy2qedz7nl5b7frdkdb3yavbffmbhnkugac7rxbfdwqmxfafun6q/chunk.m3u8 cat=OnDemandMovies
@@ -6225,9 +6228,6 @@ logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT6c3IS3JJAEKhoyvdmPo0
 #EXTINF:0, A&E HD Puerto Rico (Public-Entertainment) (US) (Spanish)
 logo=https://upload.wikimedia.org/wikipedia/commons/a/a4/A%26E_HD.png stream=http://live.tvplayerlatino.com/lista_remota/src1/a9C5z.m3u8 cat=Public-Entertainment
 
-#EXTINF:0, MTA German Webstream (Public-Documentary) (DE) (German/English)
-logo=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTj_DmEQYgEZ6V43avS72D0WnN9kWVNiGdTesXn0n8J-x3CmQLkfJr1URs stream=http://live1.mtacdn.net/play/webstream_720p/playlist.m3u8 cat=Public-Documentary
-
 #EXTINF:0, MTA International (At Thania) 2 (Public-Documentary) (UK) (Urdu/English)
 logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5zktN8EvHPXAmpAsdDuy89I2M8airVpYpH3wi0oigCIRJfBHzMxhfzBU stream=http://live1.mtacdn.net/play/mta2dvbnar/playlist.m3u8 cat=Public-Documentary
 
@@ -6311,7 +6311,4 @@ logo=http://extreme.com/media/img/extreme/tv_guide.png stream=rtmp://streamer11.
 
 #EXTINF:0, Deadknife Records (Public-Radio) (CA) (English)
 logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiCD88CJ4BeNKKNNGAL_KQGML6nnxYwdlhvwtCmSpWw5SLR3FSYA7VAnY stream=http://www.deadkniferecords.radio.fm/uploads/6/7/1/4/67142311/deadkniferecords.m3u8 cat=Public-Radio
-
-#EXTINF:0, TVN Noticias (Public-News) (PA) (Spanish)
-logo=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCCkpKVKk0VAYu7Ver1jkfJm92DUsAMvUOm5tu4DTmM28NiX4j-u3LhxI stream=http://cdnapi.kaltura.com/p/1199011/sp/119901100/playManifest/entryId/0_6gox09ym/format/applehttp/protocol/http/uiConfId/13693722/a.m3u8 cat=Public-News
 
